@@ -1,0 +1,12 @@
+ESC_RE = new RegExp(ESC_NAMES.map(n => n.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")).join("|"), "gi");
+
+function linkEffect(text) {
+    if (!text) return "";
+    return esc(text).replace(ESC_RE, m => {
+        const i = ESC_MAP[m];
+        return i !== undefined ? '<span class="card-link" onclick="event.stopPropagation();showModal('+i+')">'+m+'</span>' : m;
+    });
+}
+
+function getTotalCost(c){return c.cost?Object.values(c.cost).reduce((a,b)=>a+b,0):0;}
+function getCostDisplay(c){if(c.cost_text)return

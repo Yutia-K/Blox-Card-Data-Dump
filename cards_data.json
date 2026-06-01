@@ -262,7 +262,7 @@
     "effect": "Steal a target fighter. Give your opponent a copy of this card without this effect. It costs four Colourless Studs.",
     "bio": "\"[[Lord Umberhallow|You]] took EVERYTHING from [[Kara Sinister|me]]. Now it's my turn.\"",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Legendary"
   },
   {
@@ -543,7 +543,7 @@
     "effect": "Fading. Deal 800 damage to all non-Zombified fighters.",
     "bio": "40 years of uninterrupted power creates an iron fist, regardless of the citizen's mandate.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -660,7 +660,7 @@
     "effect": "Destroy a target fighter if it has exactly 500 Health. Otherwise, deal 150 damage to it.",
     "bio": "Infatuated with the Brick's power, Alex succumbed to his inner #####.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -1017,7 +1017,7 @@
     "effect": "Draw 2 fleeting cards.Give yourself 3 Cash Grab cards. You can’t cast non-Colourless actions until your next turn.",
     "bio": "\"Go on kid, you know you wanna click that link\"",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -1111,7 +1111,7 @@
     "effect": "When this card is cast: Give yourself Splintered Embers.",
     "bio": "I'll ascend just like [[Dukran the Elysian|Dukran]] did. Just you wait!",
     "color": "Green",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -1268,7 +1268,7 @@
     "effect": "Each fighter's rarity becomes Token. | Draw a card.",
     "bio": "The awakened [[List of Cycles|Primordials]] stared at [[Alex Deathedge (Lore)|Alex]] with disgust. They had to keep the ancient brick safe in this modern world.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -1281,7 +1281,7 @@
     "effect": "Destroy your hand and a target fighter.",
     "bio": "[[Redcliff (Group)|Redcliff]], [[Overseer (Group)|Overseer]], [[Korblox (Group)|Korblox]], [[Doge (Group)|Doge]]. Their ceaseless fighting scorched the world harrow.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -1322,7 +1322,7 @@
     "effect": "Cast this card for free if it’s ply 30 or later. Put a stud of each colour into your baseplate. Draw a card.",
     "bio": "W h y   d o e s   [[Nyarlhotep (Lore)|t h i s   h u m b l e   o n e]]   toil   i f   f r a i l   n o o b k i n d   c a n  d o   i t s   j o b   adequately?",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -1336,7 +1336,7 @@
     "effect": "Return a target enemy fighter to it's hand. Give yourself a copy of it, except it's Blue. Convert all RGY in the copy's cost to Colourless.",
     "bio": "[[Acolyte (Group)|Acolytes]] begged [[Nevermore|dragons]] to purge the world. The broken and despaired begged [[Nightmare (Group)|nightmares]] to end it. It would had been easy for [[Shedletsky the Fried One|Shedletsky]] to give in to those demands, if not for the millions cheering him on to create something more. Something better.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -1349,7 +1349,7 @@
     "effect": "Your opponent can't attack or cast anything until their next end step. Skip all end triggers, readying, and stud generation that turn.",
     "bio": "[[Priestess Zanzel, the Promised One| Zanzel]] screamed at a job not done. [[Eisenhower, the Alchemist| Eisenhower]] recoiled at an experiment not fulfilled. [[It that was Silenced| Eclipse]] howled as the raw timestream burnt his throat. For [[Hallow_Sinister,_Patriarch| Hallow]], it was Monday.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -1406,7 +1406,7 @@
     "effect": "All players draw a card. Select a card in your opponent's hand. Shuffle it into their deck, then give them a card in another game in this server.",
     "bio": "[[Lord Umberhallow]] put [[Herrus, Elder Thought Demon|Herrus]] into a contract rather than the sword like the rest of his kind. To see that contract activated for something so frivolous filled him with disgust.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -1608,7 +1608,7 @@
     "effect": "Attach to a target fighter.\nWhen this fighter attacks: Ransack 6. If you do, it can't be countered this turn.",
     "bio": "\"If you got a dream, I can make the path to get there clear as day. All that remains to be asked is: can your drive overcome all obstacles that stand before you? I'd be very interested in finding out. So let's shake on it. Lieutenant!\" - Sig Nalrad, circa 386 AD",
     "color": "Yellow",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -2204,7 +2204,7 @@
     "effect": "Draw a card.  | \nRemove 2C from all cards in your hand that cost 6 or more total studs.",
     "bio": "\"We'll never find [[Queen Shedare II|our Queen's]] comet again if we can't find a way to withstand the boilsky's heat. It almost certainly came from above the lava...\" <br/>\n-Chief Advisor Nectophore, Memoirs",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -2426,7 +2426,7 @@
     "effect": "Deal 300 damage to a target fighter. Summon an Arsenal Delinquent. You gain two Yellow studs.",
     "bio": "You're not gonna choke now, are you?",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -2655,7 +2655,7 @@
     "effect": "A target fighter gains 500 power.",
     "bio": "\"I need no assistance. I am victory! - [[Alex, Developer Depraved|Alex]]\"",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -2813,7 +2813,7 @@
     "effect": "Attach to a target fighter.  | \nWhen this fighter dies, if there's 3 or more card types in your graveyard: Draw a card.",
     "bio": "\"Despite my proximity to the ocean floor, my canvas remains dry, my watercolours stay in place, and my bones aren't crushed by the depth pressure. Fascinating.\" <br/>\n- [[The Auteur]]",
     "color": "Blue",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -3316,7 +3316,7 @@
     "effect": "Obliterate a target fighter.",
     "bio": "Our content monitors have determined that your behavior at [[ROBLOX|Roblox]] has been in violation of our Terms and Service.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -3364,7 +3364,7 @@
     "effect": "At the start of your turns: Destroy all fighters with 1000 or more health or power.",
     "bio": "The graveyard of fame and popularity.",
     "color": "Red",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -3390,7 +3390,7 @@
     "effect": "Fading. You lose all of your studs. X is the amount of studs you lost this way. If X is 15 or more, draw a card and lock a target enemy fighter for 1 turn. If X is 30 or more, draw a card and return that fighter to the hand. If X is 45 or more, draw a card. Your opponent can't cast anything next turn. If X is 60 or more, Put a stud of each color into your Baseplate. Replace your deck with Telamon's deck.",
     "bio": "The Acolytes watched on as the dragons they worshipped were banished to a lower realm, never to escape. Now, they had to find something else to praise to.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Legendary"
   },
   {
@@ -3405,7 +3405,7 @@
     "effect": "Return 2 target fighters to their hand. | Whenever an effect gives you a card, if this card is in your hand: Remove a colorless stud from this card's cost.",
     "bio": "\"Citizens go missing sometimes. It’s best to not look into it too much.\"",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -3422,7 +3422,7 @@
     "effect": "During your end step, if you control a Bargetown fighter: Give yourself a smuggled action card that costs 6 or fewer total studs, except it's Fleeting.",
     "bio": "\"The troops come back here all the time in their off hours, don't let their stern faces fool you.\"",
     "color": "Blue",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -3455,7 +3455,7 @@
   },
   {
     "name": "Beam Sword",
-    "card_type": "Action"
+    "card_type": "Fighter"
   },
   {
     "name": "Beat The House",
@@ -3467,7 +3467,7 @@
     "effect": "Destroy your hand. Obliterate a card from your opponent's deck for each card destroyed. | Draw a card.",
     "bio": "With [[Pier, Javion Bouncer|Pier]] distracted by [[Drake, Vengeful Lover|Drake]]'s onslaught, [[Yueliang, World Calmer|Yueliang]] quickly took her chance to destroy the [[Rageborne (Group)|Rageborne]]-afflicted [[Rageborne Coffers|Coffers]] of [[Javion]], gaining access to its wealth of power.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -3497,7 +3497,7 @@
     "effect": "When this card is cast: Destroy your opponent's terrain.",
     "bio": "What will you build?",
     "color": "Colourless",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -3624,7 +3624,7 @@
     "effect": "Choose a target allied and target enemy fighter. If you do, attach 2 Dreamshields to both of them.",
     "bio": "<i>Ｉｔ'ｓ ｕｎｆｏｒｔｕｎａｔｅ ｔｈａｔ ｔｈｉｓ [[Nyarlhotep (Lore)|ｈｕｍｂｌｅ ｏｎｅ'ｓ]] [[The Auteur|third ｆａｖｏｒｉｔｅ ｃａｎｄｉｄａｔｅ]] ｍａｙ ｂｅ ｉｔｓ ｍｏｓｔ loyal.</i>",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -3890,7 +3890,7 @@
     "effect": "Cast only if you control 8 or more Birds. Combine them into the Bird Colossus.",
     "bio": "Does The Matriarch control [[Eternal Tweety|Tweety]], or does Tweety control The Matriarch?",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -3949,7 +3949,7 @@
     "effect": "A target fighter, then all allied fighters gain 200 health.",
     "bio": "SURPRISE!",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Legendary"
   },
   {
@@ -3993,7 +3993,7 @@
     "effect": "Shuffle '''four Matriarch Birds ''' into your deck. Draw two cards. You gain 1000 life.",
     "bio": "Now you can tap into the Matriarch's power!",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -4136,7 +4136,7 @@
     "effect": "Obliterate a target fighter that costs 2 or fewer total studs. | You gain 200 life.",
     "bio": "\"If they're stupid enough to run into the Technicians, they weren't going to be much help in the invasion anyway.\" -- Nethercreep",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -4177,7 +4177,7 @@
     "effect": "Cast only if there are 3 Infurnished cards in your Baseplate. You lose 500 life. Draw two cards. Summon four Hellish Infurniture from your Baseplate.",
     "bio": "All you'll find inside are those who shared your curiosity.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -4223,7 +4223,7 @@
     "effect": "Cast this card ignoring its Colourless cost if there are 2 or more Lycanthropes in your Baseplate. | Search your deck for a copy of this card. | Summon a 50/350 Lycanthrope.",
     "bio": "No one believes me when I say that the scalelords have blessed me.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -4358,7 +4358,7 @@
     "effect": "During your end step: Replace each card in your hand, baseplate, field, deck, and graveyard with any card. You lose 500 life.",
     "bio": "Welcome to Blox Cards! Just remember: '''you're stuck here forever.'''",
     "color": "Colourless",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Legendary"
   },
   {
@@ -4495,7 +4495,7 @@
     "effect": "All fighters gain 350 Health and Power. Lock them all for 1 turn.",
     "bio": "Lets just sit down and have a blast, friend or foe regardless.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -4524,7 +4524,7 @@
     "effect": "Deal 250 damage to all allied fighters. They gain 600 Power.",
     "bio": "A lifetime of hard work and difficulty, all for a useless trophy. [[Jayson13|Mewsitive]] had to break the cycle.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Legendary"
   },
   {
@@ -4831,7 +4831,7 @@
     "effect": "Draw two Cards.",
     "bio": "The bowl reacts poorly when treasures are taken outright, yet shows no response to my handling at all. Is it speaking to me? What makes me so special? I designated it the \"Bowl of Greed\". Once set in motion, it does not stop.<br/>-[[IcyTea|Artifact Antiquarian]]",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -4909,7 +4909,7 @@
     "effect": "At the start of each player's turn: Unlock all allied fighters.",
     "bio": "Bread Factory helps deal with Bread decks. How do you work that out?",
     "color": "Yellow",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -4924,7 +4924,7 @@
     "effect": "A target fighter gains 500 health, then give yourself a copy of each fighter with total stats 1500 or more.",
     "bio": "Equal parts nutritious and tasteless, the diet of a [[Gladiator (Group)|gladiator]] is strict and functional.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -5083,7 +5083,7 @@
     },
     "effect": "If you have this card, it's because you made an OP deck. The fireworks display you're about to get is condolences. -Myrm",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -5112,7 +5112,7 @@
     "effect": "Inert in baseplate.Put 2 copies of this card into your baseplate. | During your end step, if this card is in your baseplate and its rank is 12 or greater: You gain 1C.",
     "bio": "Ｇｏｄ ｇａｖｅ ｙｏｕ ａ gift． Ｙｏｕｒ ｈｉｓｔｏｒｙ ｉｓ ｆｏｕｒ ｍｉｌｌｅｎｎｉａ ｏｆ spurning ｉｔ．",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -5223,7 +5223,7 @@
     "effect": "Summon eight Hellish Infurnitures from your Baseplate. Unlock each fighter with the lowest health.",
     "bio": "The shame of imprisonment only gave the Infurnished the extra push to hone their brutality.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -5297,7 +5297,7 @@
     "effect": "Twice each turn, whenever you cast a fighter: Give yourself a fleeting Pizza Slice.",
     "bio": "When the moon hits your eyes like a big pizza pie, that's amore!~",
     "color": "Blue",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -5433,7 +5433,7 @@
     "effect": "All enemy fighters lose 400 Power. All allied fighters gain 400 Power. Swap the stats of all fighters.",
     "bio": "Hatred outlives the hateful.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Legendary"
   },
   {
@@ -5466,7 +5466,7 @@
     "effect": "Add 3 Doge Hounds to your hand.",
     "bio": "DOGES? ATTACK!!",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -5629,7 +5629,7 @@
     "effect": "Fading. Recur four allied Toy cards. Destroy them if they're not cast by their next end step.",
     "bio": "There's no fluffing around with big bear.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -5824,7 +5824,7 @@
     "effect": "Inert in hand. Summon three lowly thugs onto the opponent's board. You can't attack or cast anything else this turn.",
     "bio": "Multiple shootings, five dead, and money stolen, go after them, before more lives are taken...",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -5836,7 +5836,7 @@
     "effect": "Inert in hand. Your opponent summons The Crooked Cop and his Conflict of Interest. You can't cast anything else this turn.",
     "bio": "Either you die a hero or live long enough to see yourself become the villain.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -5873,7 +5873,7 @@
     "effect": "Inert in hand. Your opponent summons The Chairman and The Operative. You can't cast anything else this turn.",
     "bio": "One last case. The end of the road. Find the truth about The Chairman.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -5889,7 +5889,7 @@
     "effect": "Inert in hand. Your opponent summons The Yazuka Underboss and his Underling. You can't cast anything else this turn.",
     "bio": "The [[Case 2: The Crooked Cop|Crooked Cop]] wasn't acting alone. He mentioned something about the Yakuza and a mysterious man. Just as the Police find themselves in a dead-end, a massacre begins in a nearby bio-lab. Rush to the scene!",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -5927,7 +5927,7 @@
     "effect": "Effects can't destroy this card. | You lose two Colourless Studs. | Put this card into your Baseplate.",
     "bio": "A product of incompetence.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -6008,7 +6008,7 @@
     "effect": "Reset the stats of all fighters. End the turn.",
     "bio": "[[Eisenhower, the Alchemist|Eisenhower]] awoke in [[The World of Wood|a strange forest]]. Was he sent backwards, or was the forest sent forwards?",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -6042,7 +6042,7 @@
     "effect": "At the start of each player's turn: That player gains a Colourless stud and draws a card. Discard that card if it's not played this turn.",
     "bio": "The eccentric home of [[Hallow Sinister, Patriarch|Hallow]], and head office of his crime enterprise. He wishes his [[Sinister (Group)|kids]] come to visit more often...",
     "color": "Yellow",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -6077,7 +6077,7 @@
     "effect": "Whenever you cast a Limb of Power: Give yourself a copy of it, except it gains fading.",
     "bio": "Praying for god's help calmed the despaired minds, even if slightly.",
     "color": "Yellow",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -6124,7 +6124,7 @@
     "effect": "At the start of turns: Recur an allied card with total stud cost 2 or less. It gains Fading.",
     "bio": "A strange place, where everyone can truly become anyone.",
     "color": "Yellow",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -6219,7 +6219,7 @@
     "effect": "Fading. If you have gained 1000 or more life, cast this ignoring its Colourless cost. | Deal 1000 damage to all fighters. | Give yourself a 1000/100 Celestial Remnant.",
     "bio": "One strives for a world with free will. The other strives for a world free from will.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -6249,7 +6249,7 @@
     "effect": "If you have more than 5500 life, you lose that much life and draw four cards. Otherwise, you gain 1000 life. Give yourself a Celestial Remnant.",
     "bio": "A few Celestials manage to return to the heavens on their own. They often bring back souvenirs.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -6393,7 +6393,7 @@
     "effect": "Whenever you cast a fighter with total stats 500 or less: Deal 100 damage to it. If it survives, unlock it and it generates.",
     "bio": "Where [[Noob]]s became men.",
     "color": "Yellow",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -6488,7 +6488,7 @@
     "effect": "Hunt 1. | When this card is cast, or whenever you draw 3 cards from a Mega Token: Return a target fighter to its hand.",
     "bio": "Solve my puzzle and win your glorious prize!",
     "color": "Yellow",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -6532,7 +6532,7 @@
     "effect": "Cast this card ignoring its Red cost if you control 2 Lycanthropes. A target allied fighter gains 150 health. Double its stat. Transform it into a transformed Lightning Wolf that can't counter.",
     "bio": "When one sees [[Eclipse, Werewolf Colossus|Eclipse, the Moonbreaker]], they instantly wish to join his perfect society.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -6596,7 +6596,7 @@
     "effect": "Twice each turn, whenever you cast a Chair card: Put a Chaotic Blessing on a card space in your hand.  | \nWhenever an allied card uses up a blessing: All allied fighters gain 100 health. All allied Chairs gain 50 power.",
     "bio": "Such a mythical chair. Think about what powers the throne gives to whoever sits on it…",
     "color": "Colourless",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -6626,7 +6626,7 @@
     "effect": "You lose 600 life\nDouble the power of a target fighter, then half its health.",
     "bio": "and i luv cheezburger 2!!!!",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -6963,7 +6963,7 @@
     "effect": "Choose a target fighter and summon its Zeitgeist, a 600/500 fighter, to your field. (Its effect is based on what pack the card is from.)",
     "bio": "The shattering of the Brick had somehow opened cracks into a realm no mortal had ever seen. This did not make '''him''' very happy.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -7149,7 +7149,7 @@
     "effect": "Draw a card.  | \nSelect a card in your hand. It becomes Red.  | \nSelect a card in your hand. It becomes Green.  | \nSelect a card in your hand. It becomes Blue  | \nSelect a card in your hand. It becomes Yellow.  | \nRemove all inertia from all cards selected this way.  |",
     "bio": "A bygone relic of a bygone time.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -7338,7 +7338,7 @@
     "effect": "Obliterate a target fighter.  | Give its controller 2 copies of it, except they're Unique and locked for 4 turns.",
     "bio": "Cracking and corroding, they shall hold no longer.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -7557,7 +7557,7 @@
     "effect": "Whenever an effect you control targets a fighter for the second time this turn: Give yourself a free Morphic Goo.",
     "bio": "With [[Artemis' Tombstone|the death of his loved one]], [[Eisenhower, the Alchemist|Eisenhower]] devoted everything to his restoration. Eisenhower's lab fell into disrepair.",
     "color": "Blue",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -7615,7 +7615,7 @@
     "effect": "You lose 1500 life. Obliterate a target fighter and all copies its controller has in all zones.",
     "bio": "As his fur began to fade and flesh began to sizzle, Eclipse knew he had only one shot to break the Machine's motherboard.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -7752,7 +7752,7 @@
     "effect": "Cast this card ignoring its Colourless cost if you control 2 or more Sentry Components. | Destroy them all, then summon a 600/600 Sentry Gamma.",
     "bio": "'This lil' beauty is set to 'Burn Everything'! Good luck getting through THIS corridor! Haha!...wait isn't this the hospital?'",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -7768,7 +7768,7 @@
     "effect": "Cast this card ignoring its Colourless cost if you control 2 or more Sentry Components. | Destroy them all, then summon a 600/600 Sentry Alpha.",
     "bio": "'This lil' beauty is set to 'Kill Everything'! Good luck getting through THIS corridor! Haha!...wait isn't this the dining hall?'",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -7784,7 +7784,7 @@
     "effect": "Cast this card ignoring its Colourless cost if you control 2 or more Sentry Components. | Destroy them all, then summon a 600/600 Sentry Beta.",
     "bio": "'This lil' beauty is set to 'Shoot Everything'! Good luck getting through THIS corridor! Haha!...wait isn't this the brewery?'",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -8105,7 +8105,7 @@
     "effect": "A target fighter loses 350 power. Give yourself a 350/350 Wasteland Mercenary. Whenever you cast a smuggled card: Recur this card, except it's fading.",
     "bio": "Unfortunately, the officials know how to tip the scales.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -8136,7 +8136,7 @@
     "effect": "Summon a Havaluvian Bounty Hunter, an 850/750 fighter.",
     "bio": "Don't worry about returning the crown. Consider it your payment.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -8181,7 +8181,7 @@
     "effect": "Draw a card. If you've cast 4 or more other actions this turn, unlock all allied fighters. They gain 200 health and power.",
     "bio": "\"Controlling a galaxy is for meek simpletons. I seek something greater. I seek the whole univerese.\" --[[Azureless of The Federation|Azureless, Lord of the Federation]]",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -8284,7 +8284,7 @@
     "effect": "Inert in Baseplate. Obliterate a non-Colourless card in your Baseplate and put this card there. At the start of your turns, if this card’s in your Baseplate: Give yourself a fleeting Nascent Stud.",
     "bio": "[[Stud]]s in the furthest reaches of spaces are unused, thus having untapped potential.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -8549,7 +8549,7 @@
     "effect": "Fading. Select 1 effect:  | \n- Destroy all fighters with gears attached to them.  | \n- Destroy all fighters with no gears attached to them.",
     "bio": "\"The outside world that's condemned you to die, or the inside world that wants you to live. Which one is it, [[The Sacrifice|girl]]?\" <br/>\n-[[Deidre, Timeslayer|Deidre]]",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -8626,7 +8626,7 @@
     "effect": "At the start of each player's turn: Fighters not controlled by that player gain 100 power.",
     "bio": "The ultimate battleground, apart from sitting at a table playing Blox Cards of course.",
     "color": "Colourless",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -8635,7 +8635,7 @@
     "effect": "You once had eight fighters in play. You have the crowd's favour for the rest of the game.",
     "bio": "The [[Thrilled Spectators|crowd]] roared in delight as [[Kara Sinister]] ripped the [[Gladiator (Group)|Gladiators]] apart. She stared at [[Lord Umberhallow|Hallow]]. Now she had his attention, [[\"Love\" Contract|she could do whatever she wanted to him]].",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -8650,7 +8650,7 @@
     "effect": "When this card is cast: Give yourself a grouped card. | During your endstep: Allied fighters gain 50 power for each different group among all allied fighters.",
     "bio": "In the place where you can find Sans from Undertale fighting a character from Genshin Impact while both are fending off Springtrap from Five Nights At Freddy's, Anything goes.",
     "color": "Colourless",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -8691,7 +8691,7 @@
     "effect": "If you've ever had a full board this game, deal 700 damage to all enemy fighters. Otherwise draw a card.",
     "bio": "The [[Infurnal (Archetype)|infurnished]] horde flooded the crowd, became the crowd, and wished for victory against impossible odds.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -8717,7 +8717,7 @@
     "effect": "Unlock a target target fighter, then Lock it for 6 turns.",
     "bio": "It's cute when it's trapped, isn't it? I mean, as cute as [[Rageborne (Group)|raging, hate-filled monsters]] can be.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -8760,7 +8760,7 @@
     "effect": "Fading. | All players shuffle all non-token cards in their graveyards into their decks. | You gain 2000 life.",
     "bio": "One cup of tea never satisfies. You always end up having another.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -9184,7 +9184,7 @@
     "effect": "The next action you cast this turn triggers its effect an additional time.",
     "bio": "A tome filled with essential [[Paraselene (Playstyle)|Moon sorcery]]. It drains the conjurer in exchange for the knowledge of what is held within.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -9287,7 +9287,7 @@
     "effect": "Search your deck for two action cards. | Put a Scintillant Blessing on the first and second card spaces in your hand. | Shuffle the two oldest cards in your hand into the deck.",
     "bio": "N/A",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -9446,7 +9446,7 @@
     "effect": "This card is immune to destruction effects. | Destroy all allied fighters and give yourself an inert copy of this card. If a fighter is destroyed this way, also give yourself an X/0 Final Destination. X is their total health. Then if this card isn't inert, draw 2 cards.",
     "bio": "N/A",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -9492,7 +9492,7 @@
     "effect": "Whenever you cast your first fighter each turn, if you have no other copies of that fighter in any zone: Search your deck for a fighter that costs less total studs than that card.",
     "bio": "Fourteen to One. Charming [[Kara Sinister|Kara]] and Wise [[Herrus, Elder Thought Demon|Herrus]] faced Umberhallow's rigged odds.",
     "color": "Blue",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Legendary"
   },
   {
@@ -9656,7 +9656,7 @@
   },
   {
     "name": "Debt to the House",
-    "card_type": "Action"
+    "card_type": "Fighter"
   },
   {
     "name": "Deep Space Loan Shark",
@@ -9687,7 +9687,7 @@
     "effect": "Cast only if your starting deck contained 8 fighters or more. Summon a 400/400 fighter. Shuffle each fighter you control into your deck. Summon that many fighters from your deck.",
     "bio": "Tragically, I didn't die today. Life goes on. This reality has all but died away. Every light I'd seen in the sky, all the essence of this world - gone. Every ghost is now but a cold breeze. Truthfully, I still want to die. Maybe I'm already dead. Or maybe I'll get out of this world and get another chance to, y'know, not literally ruin an entire timeline. Just - just let me have something happen. Just so I'll feel better.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -9812,7 +9812,7 @@
     "effect": "Summon an 800/800 AIpha Brick. | When you do: Obliterate the bottom card of your opponent's deck. | Effects can't damage, target, or set the stats of that AIpha Brick. | If an effect would target that Alpha Brlck: Transform it into a copy of the obliterated card.",
     "bio": "As a last ditch attempt, the people of Old Robloxia took a two-by-two brick, shined it and enchanted it with a glowing aura in an attempt to fool the Titans. It worked.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Legendary"
   },
   {
@@ -9858,7 +9858,7 @@
     "effect": "Liberate. | Unlock a target fighter.",
     "bio": "The people of Bloxburg would not, will not, ever stand for the exploitation of mortality.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -9906,7 +9906,7 @@
     "effect": "Reset a target fighter's stats. | Put it on top of your opponent's deck. | Destroy the bottom three cards of your opponent's deck.",
     "bio": "You drown in the void of water... yeah, roll with it.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -10013,7 +10013,7 @@
     "effect": "Cast only if there are 2 or less coloured cards in your baseplate. Put all allied fighters into your Baseplate. (This removes them from play.)",
     "bio": "Go commit die.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -10046,7 +10046,7 @@
     "effect": "Select a grouped card in your deck, and summon a colourless unranked non-token fighter that costs 8 or fewer total studs from that group and trigger its effect as though it was cast. Attach a Terrified Mod to the summoned card, then search your deck for 2 actions in that group.",
     "bio": "\"Albeit at the last moment, God arrived to purify the earth of those who meant to destroy it.<br>The Nightmares and Nevermore knew their time was up. \"",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -10138,7 +10138,7 @@
     "effect": "Choose two: \n-Destroy all fighters with 500 or less health. \n\n-Summon a 800/800 Survivor\n\n-All allied fighters gain 400 health. \n\n-Destroy two cards in your hand, then draw 2 cards.",
     "bio": "[[Lua, Paraselene Evincar|Lua]] launched a surprise attack against all odds, and [[Eisenhower, the Alchemist|Eisenhower]] calcuated those odds. They were not in [[Hallow Sinister, Patriarch|Hallow]]'s favour.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -10168,7 +10168,7 @@
     "effect": "Summon Tragedy onto your field and summon Accordingas11 onto your opponent’s field. | Search your deck for a copy of this card..",
     "bio": "One met a guiding light, leading to the future.<br>One met a deadeye, saving from the past.\nThe Destined connection has begun.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -10289,7 +10289,7 @@
     "effect": "At the start of your opponent's turns: You may obliterate this card and summon a Standby Soul.",
     "bio": "He knew he was as good as gone, but gone was somewhere he really didn't mind going to.",
     "color": "Colourless",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -10416,7 +10416,7 @@
     "effect": "0 Charges.\nWhen this card is cast: Give yourself a Element. During your endstep: This card gains a charge for each unique element in your graveyard. Then if this has atleast 7 charges, Remove that many. Search your deck for a Team Dimensionia member. Reduce its cost by 1C 1R.",
     "bio": "It took 14 people over 2 years to build this base, yet they forgot to put in security measures.",
     "color": "Red",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -10459,7 +10459,7 @@
     "effect": "Fading.  | \nUnique in Graveyard.  | \nGive yourself a Nascent Stud. Put this card into your graveyard.",
     "bio": "The understanding influence of the above, binding them together.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -10489,7 +10489,7 @@
     "effect": "Give yourself 2 elements. You may baseplate an additional non-red card this turn.",
     "bio": "\"[[Drakon Kyrane|Drakon]], take the left! [[Rufaro Hyperius|Rufaro]], take the right! [[Ducasse Jonquil|Ducasse]], take the spot a little below Drakon! [[Shuu Lumina|Shuu]], just be yourself!\"\n\"Together, we're TEAM DIMENSIONIA!\"",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -10503,7 +10503,7 @@
     "effect": "Liberate. | Look at your opponent's graveyard and choose up to 2 cards in it. Obliterate those cards. | Draw a card. You lose 200 life.",
     "bio": "\"Bring those that would abuse immortality to their knees.\"<br>-McKayla Newman",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -10516,7 +10516,7 @@
     "effect": "Fading. | Give yourself six Necroenzyme Vials. They each cost two Colourless studs to cast.",
     "bio": "[[Eisenhower Dwit|Eisenhower]] unlocked the secret to prolonging a person's life, the greatest scientific achievement in Robloxian history - and the miracle he needed to bring back his husband. \n\nHe was a fool.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -10564,7 +10564,7 @@
     "effect": "Whenever you discard your second card each turn: This card deals 200 damage to a target fighter.",
     "bio": "When WOs were around this is where you lost them.",
     "color": "Colourless",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -10593,7 +10593,7 @@
     "effect": "If you control two members of the Federation, cast this card ignoring its colourless cost. You draw two cards and you lose 1500 life.",
     "bio": "Agents of [[The Federation (Group)|the Federation]] who show decency to the people they invade are outcast as Disgraced. They lose their status but not their power.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -10608,7 +10608,7 @@
     "effect": "Select and inject up to 2 fighter cards in your baseplate that each cost 4 or fewer total studs. Inject those cards. Put a Red stud and a Blue stud into your Baseplate, except they're zombified.",
     "bio": "The Astral Faith, a hardcore sect of the CRP, see being mortal as evil, as a burden on healthcare and the economy. Such evil should be outlawed.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -10634,7 +10634,7 @@
     "effect": "Deal 1200 damage to a target fighter. Give yourself six Money Stack cards.",
     "bio": "The spirit of money is the soul of [[Javion]]; Their currencey buys superpowers. No matter [[Biggs, Fiscal Predator|Biggs]] captured them.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -10714,7 +10714,7 @@
     "effect": "Divide a target fighter into two smaller copies of itself, then deal 100 damage to all enemy fighters.",
     "bio": "N/A",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -10769,7 +10769,7 @@
     "effect": "Fading.  |  Set the stats of all fighters to 350/350.",
     "bio": "[[Shedletsky, the Fried One|Shedletsky]]'s return cleansed the world of all that distinguishes and divides.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -10952,7 +10952,7 @@
     "effect": "Deal 600 damage to each fighter with the lowest health.",
     "bio": "It has to be done!",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -10965,7 +10965,7 @@
     "effect": "Destroy all terrains.  | \nDraw a card.",
     "bio": "\"Each editor is given a pocket universe to change to their hearts' content, its rules limited only by their creativity. Those who squander such a gift are supposed to be cast aside; Why has the [[Nyarlhotep (Lore)|Grand Overseer]] kept so many broken people in positions of power?\" <br/>\n-Technician's notes, Experience [https://www.roblox.com/games/270748344/Blox-Cards-TCG 270748344]",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -11071,7 +11071,7 @@
     "effect": "3 Charges.  | \nAttach to a target fighter.  | \nWhenever an allied fighter attacks: This card loses a charge. Then if it has no charges, Reset it to 3 charges and deal 600 overloaded damage to all allied fighters.",
     "bio": "When danger comes, the ones who bare witness and know the right thing to do, shall show Him through themselves and do it.",
     "color": "Red",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -11200,7 +11200,7 @@
     "effect": "Cast this card ignoring its Coloured cost if there are three Acolytes in your baseplate. | Summon three Draconic Acolytes. | Lock all allied fighters that aren't Acolytes for two turns.",
     "bio": "The dragons of the Horde are the same ones that conquered the earth thousands of years ago.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -11547,7 +11547,7 @@
     "effect": "This card costs 1C less for every Alar card in play and your Baseplate. When this card is cast: Give yourself a Splintered Genesis and recur four Alar action cards. During your end step: Summon either an Alar Trainee or an Alar Herald.",
     "bio": "Still, he knew there were those who would seek the [[Alpha Brick's Presence|Brick]], destroying the peace he helped create. The Brick is now hidden, forever out of [[Telamon]]'s reach.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Legendary"
   },
   {
@@ -11595,7 +11595,7 @@
   },
   {
     "name": "Dukran the Celestial",
-    "card_type": "Action"
+    "card_type": "Fighter"
   },
   {
     "name": "Dukran's Accord",
@@ -11675,7 +11675,7 @@
     "effect": "Fading. If it's after the second player's 15th turn, cast this ignoring its Colourless cost. | Destroy all fighters.",
     "bio": "2000 years ago, the [[Dwarves (Archetype)|Dwarvern]] Meteor destroyed [[The World of Wood|the World of Wood]]. In 2000 years, the Dwarvern Meteor will [[Worldpurge|destroy the world again]].",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -11926,7 +11926,7 @@
     "effect": "Fading. Suspend a target fighter from play until the next end step. | Destroy your opponent’s terrain and all fighters. | Give yourself three Moonleaks.",
     "bio": "[[Nibblex the Starkiller|Nibblex]] was displeased with [[Havalu]]. [[The Federation (Group)|The Federation]] tech made it crunchy, with their screams overseasoning the meal.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -12062,7 +12062,7 @@
     "effect": "This card costs one less Red, Blue and Yellow stud if you control a Dwarf. | Cast only if you've discarded four cards this turn. When you do: Draw four cards.",
     "bio": "The biggest breakthrough in Dwarvern history was the discovery of [[Dwarvern Meteor|a fallen star]]. With it, they built impossible machinery.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -12205,7 +12205,7 @@
     "effect": "If you control a member of the Federation, cast this card ignoring its colourless cost. Destroy a target enemy fighter if it has 450 or less health.",
     "bio": "One would think a larger ego would be a bad thing, but for [[The Federation (Group)|the Federation]] it's a whole different story.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -12324,7 +12324,7 @@
     "effect": "Destroy your baseplate, then select up to that many cards in your deck. Put them into your baseplate.",
     "bio": "While incapable of feeling emotions, the technicians unaimously desired to feel rage at how difficult the clayfestation was making their job.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -12400,7 +12400,7 @@
     "effect": "Whenever you cast an action: Look at the top card of your deck. You may destroy it.",
     "bio": "It used to be [[Eisenhower Reunited|their]] home.",
     "color": "Blue",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -12460,7 +12460,7 @@
     "effect": "A target fighter gains 200 Health and Power. Attach terrified to it.",
     "bio": "Preach to the silence and you will see...",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -12491,7 +12491,7 @@
     "effect": "Once each turn, when you cast a card: Shuffle your hand into your deck, then draw that many cards.",
     "bio": "[[Dr. Grey]] stared down the hallway, the office door with no name returning her gaze. Feeling of regret stirred in her heart, but there's no point in deliberating over the past anymore. Time for her appointment with her next patient.",
     "color": "Blue",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -12611,7 +12611,7 @@
     "effect": "Select a Colour. Search your deck for 3 fighter cards of that colour. (Colourless does not count for this effect)",
     "bio": "For four different reasons, four desperate nobodies sought to destroy the doomspire in four different ways. They can't all have glory.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -12806,7 +12806,7 @@
     "effect": "Select a card in your opponent's graveyard. Obliterate all copies of it in their graveyard, hand and deck.",
     "bio": "\"Ain't it convenient,\" scowled [[The Tainted|the Tainted]], \"that the only weapon that can hurt a [[Technician (Group)|Technician]] was given to you by [[Nyarlhotep (Lore)|one?\"]]<br>\"It's convenient you have a [[Winona, Real Hero|small child]] besides you every time I wish you were headless.\"",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -12870,7 +12870,7 @@
     "effect": "A target fighter gains 500 health and power. Transform it into a Sauce-Fuelled Zealot.",
     "bio": "WARNING: Contents contain the following: Ghost Peppers, Molten Lava, [[Drakobloxxer]] Saliva, Curry, Cactus Sap, Wasabi, [[Redcliff (Group)|Redcliff]] Marrow, Chili, and Beans. Side Effects include damage to skin, melting bones, heartburn, and a craving for rice. Eat with caution!",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -13243,7 +13243,7 @@
     "effect": "Put an Eldritch Blessing on the card space this was cast from.  |  You draw X cards and gain 200 times X life. X is the number of blessings you have.",
     "bio": "A flood of essence spewed from the crack and violently transformed the trainee. Adreti was ecstatic, [[Yueliang, World Calmer|Yueliang]] was horrified.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -13303,7 +13303,7 @@
     "effect": "All allied fighters gain 250 Health and Power. Return them to your hand. Summon a 1200/400 fighter.",
     "bio": "Aha! After studying various \"planets\" collapsing under their own \"power\", I have managed to create this \"contraption\" which will only affect a select few \"beings\". The \"effects\" of this \"contraption\" not only \"sends\" those whom are within its \"requirements\" to a different \"spacial position\", but it also \"awakens\" their \"true potential\".",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -13317,7 +13317,7 @@
     "effect": "All enemy fighters lose 100 Power. Reveal your oppponent's hand. Draw a card.",
     "bio": "I spy with my floating eye, someone's about to die.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -13381,7 +13381,7 @@
     "effect": "Ban your opponent.",
     "bio": "N/A",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Legendary"
   },
   {
@@ -13597,7 +13597,7 @@
     "effect": "Deal 350 damage to a target fighter. Then deal another extra 350 damage if it has no Colourless studs in it's cost.",
     "bio": "And he can't get up.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -13666,7 +13666,7 @@
     "effect": "You win the game.",
     "bio": "At last, The Scholar found what he was looking for.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -13824,7 +13824,7 @@
     "effect": "Put two Kittens into your hand.",
     "bio": "N/A",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -13899,7 +13899,7 @@
     "effect": "Suspend a target fighter from play until the next end step. Give yourself three Moonleaks.",
     "bio": "\"Dance! Beg! If you're funny enough, we might just save you from the mines!\"",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -13943,7 +13943,7 @@
     "effect": "Unique. Cast only if you have at least 3 cards in your hand. Each player shuffles their hand into their deck, then draws four cards.",
     "bio": "A [[Sinister (Group)|Sinister]] family reunion only happens in the direst of circumstances.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -14000,7 +14000,7 @@
     "effect": "You lose all of your coloured studs. Destroy a card of each colour from your Baseplate. | Search your deck for an Ultra Terrain card and an Ultra Fighter card.",
     "bio": "Lua's attempts to banish the portal were too little, too late. The Ultras had arrived on Robloxia.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -14124,7 +14124,7 @@
     "effect": "Fading.  | \nAttach to a target fighter.  | \nAt the start of each turn: Obliterate this fighter, then summon a fighter from any graveyard unlocked with a copy of this card attached to it.",
     "bio": "\"This would make a great zoo attraction.\"\n-[[Apate, Demon Investor]]",
     "color": "Yellow",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -14152,7 +14152,7 @@
     "effect": "Inert in all zones. Attach to a target fighter. \nDuring your end step, if this card and 20 others are in your graveyard: Obliterate this card.",
     "bio": "\"Call it filth, or Imperfections all you wish. It is our variance that defines who we are.\"<br>- [[Akasegawa the Iconoclast]]",
     "color": "Colourless",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -14371,7 +14371,7 @@
     "effect": "Return a target fighter that costs 4 or fewer total studs to its hand.  | \nSeek Shinies.",
     "bio": "With [[Queen Shedare II|her]] eldest son sitting on the entrance to Sunken Shedare, its fallen queen discarded her crown jewels in hopes of enticing her subjects back into the monarchy.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -14385,7 +14385,7 @@
     "effect": "Deal 4000 damage to all allied fighters. | Destroy a Blue and Red card in your Baseplate, then gain four studs of those colors. | Draw two cards.",
     "bio": "\"A conquerer must sacrifice everything to obtain everything else.\" -Evercyan, Lord of the Federation",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -14499,7 +14499,7 @@
     "effect": "When this card is cast: Give each player two Peace Term cards.\nAt the start of each player's turn, if that player has no Peace Terms in their hand: Give that player any card.",
     "bio": "N/A",
     "color": "Colourless",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -14516,7 +14516,7 @@
     "effect": "Give yourself two Moonleaks. Summon two 500/300 tokens. One evolves fighters, and the other devolves fighters.",
     "bio": "Eternal punishment like no other, caused by using the term anthrofiction to describe a body of work.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -14534,7 +14534,7 @@
     "effect": "At the end of your turns: Summon a 50/300 Revenant with overload.",
     "bio": "Below fantasy and fun.",
     "color": "Red",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -14548,7 +14548,7 @@
     "effect": "Give yourself six Blue or Red action cards. You gain 6 Red studs.",
     "bio": "The [[Paraselene Sage]] thought he found the most [[Forbidden Power|forbidden of powers]]. He was wrong.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -14578,7 +14578,7 @@
     "effect": "Reveal your opponent's hand and select a non-starter card in it. Add 4C to its cost.",
     "bio": "S c r a p e ,    G r i n d ,    C r e a k ,    R a t t l e ,    W h i n e ,    S h r i e k .",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -14621,7 +14621,7 @@
     "effect": "Draw three cards from your opponent's deck. Your opponent draws three cards from your deck.",
     "bio": "One [[bengbeng14]] coming right up, my dear frenemy. This will cost you your soul, however.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -14775,7 +14775,7 @@
     "effect": "Cast only if you control no fighters. Shuffle Beeism and Teaism into your deck, then draw two cards.",
     "bio": "The prophecy came true.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -14958,7 +14958,7 @@
     "effect": "Attach to a target fighter.  | \nWhen this fighter dies: Destroy all terrains. If an allied terrain was destroyed, also deal 200 damage to all fighters.",
     "bio": "A common tool in revolution and suppression alike.",
     "color": "Red",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -15253,7 +15253,7 @@
     "effect": "Look at the top five cards of your deck and choose one of them. Search that card and destroy the rest.",
     "bio": "Eisenhower brought the pictures of him and husband, the only form of solace he'll provide himself in the dilapitated laboratory.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -15435,7 +15435,7 @@
     "effect": "Attach to a target fighter. | Whenever a player discards a card: This fighter loses 200 health.",
     "bio": "\"An intruder? Impossible. The moon is so fiercely defended that only a ghost could get inside.\" <br/>\n-[[Claymaker, Master Architect|Claymaker]]",
     "color": "Red",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -15479,7 +15479,7 @@
     "effect": "Give yourself six rare cards.",
     "bio": "Christmas is for December despite advertisements starting in August; It's time to rebel against the system!",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -15543,7 +15543,7 @@
     "effect": "Return a target allied fighter and a target enemy fighter to their hands.",
     "bio": "A truly inhumane contraption from Old Robloxia.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -15559,7 +15559,7 @@
     "effect": "Once each turn, whenever an effect gives you a Cat's Eye card: Search your deck for a Cat's Eye card two rarities above it. This card generates.",
     "bio": "Deception requires one to care about the truth.",
     "color": "Colourless",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -15715,7 +15715,7 @@
     "effect": "A target fighter gains 250 health. Lock it for 2 turns.",
     "bio": "I hope I was of some use to you, sir.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -15728,7 +15728,7 @@
     "effect": "Attach to a target fighter.\nOnce each turn, whenever you cast a gear: Unlock this fighter.",
     "bio": "So many KOs, so little time.",
     "color": "Yellow",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -15757,7 +15757,7 @@
     "effect": "Cast this card ignoring its Colourless cost if you control a Goo-related fighter. Summon a Morphic Goo, then a target fighter loses 600 power and is locked for 3 turns.",
     "bio": "Goos weren't designed to be combat effective in their base form, but they will immobilize anything or anyone stupid enough to trip into one.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -15947,7 +15947,7 @@
     "effect": "Return a target fighter to the hand.",
     "bio": "War drives innovation; [[The Federation (Group)|The Federation]] create wars solely to drive progress.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -16162,7 +16162,7 @@
     "effect": "Cast only if there are two morphic cards in your Baseplate. All non-Goo-related fighters lose 800 power. Summon four Morphic Goos.",
     "bio": "[[Eisenhower, the Alchemist|Eisenhower]] feared the worst out of his experiments.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -16624,7 +16624,7 @@
     "effect": "All fighters lose 200 power. Transform them into Fundebted fighters. Give yourself Hallow's Wealth.",
     "bio": "\"If you are not paying for it, you're not the customer; you're the product.\" -[[Lord Umberhallow]]",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -16637,7 +16637,7 @@
     "effect": "All players summon a random fighter.",
     "bio": "He drives a hard bargain, but only on Friday.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -16774,7 +16774,7 @@
     "effect": "Destroy all fighters with 350 or less health. You can't attack fighters or cast anything this turn.",
     "bio": "Not for the faint of wallet.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Legendary"
   },
   {
@@ -16885,7 +16885,7 @@
     "effect": "Attach to a target fighter.  | \nWhenever this fighter attacks another fighter: This fighter loses all power until your next end step. If this fighter survives that attack: It deals the power it lost as damage, divided evenly among all enemy fighters.",
     "bio": "Originally used on [[Rorvik Atoll]] to mine multiple ores at once. Your fighters have found... other uses... for it.",
     "color": "Red",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -16933,7 +16933,7 @@
     "effect": "When this card is cast: Deal 600 damage to a target enemy fighter and note its name.\nAt the start of your turns: Ransack 1. If you do, your opponent summons all cards with the noted name in their graveyard as 50/50 fighters.",
     "bio": "Kingrin is a humble yet passionate artist, with terror as his medium and gore as his paint.",
     "color": "Yellow",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -16948,7 +16948,7 @@
     "effect": "If you're in Bliss, cast this card ignoring its colourless cost. | Look at your graveyard and choose two cards in it, each with total stud cost 4 or less. Summon those cards and unlock them. Obliterate them during your next end step.",
     "bio": "\"I-I revived your daughter! I cured her arterial thrombosis! I know it took a decade, but better late than n-never, right? Why do you hate me? '''WHY DO YOU HATE ME!?'''\"",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -16981,7 +16981,7 @@
     "effect": "Fading. Save the boardstate. Give yourself a card that loads that boardstate.",
     "bio": "[[Telamon|Ｔｈｅ Ｃｒｕｅｌ Ｇｏｄ]] ｃｈａｉｎｅｄ ｈｉｓ [[Technician (Group)|ｆａｖｏｕｒｉｔｅ ｐｅｏｐｌｅ，]] ａｎｄ ｇａｖｅ ｆｒｅｅ ｗｉｌｌ ｔｏ ｔｈｅ [[Species (Lore)#Noobs|rats．]]Ｔｈｅ Ｃｒｕｅｌ Ｇｏｄ ｃｏｅｒｃｅｄ ｔｈｅ ｆｒｅｅ ｒａｔｓ ｔｏ ｗｏｒｓｈｉｐ ｈｉｍ ａｎｙｗａｙ， ｙｅｔ ｇａｖｅ ｉｍｍｏｒｔａｌｉｔｙ ｔｏ ｔｈｅ jellyfish．",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -17148,7 +17148,7 @@
     "effect": "Cast only if you control a Chair. Summon a random common Chair and deal 150 damage to a target fighter.",
     "bio": "You need to start chair racing somehow!",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -17179,7 +17179,7 @@
     "effect": "When this card is cast: Give yourself a Medic Kit.\nDuring your end step, if you've gained 600 or more life this turn: Give yourself a Moonleak and you gain a colourless stud.",
     "bio": "N/A",
     "color": "Blue",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -17274,7 +17274,7 @@
     "effect": "Deal 400 damage to a target fighter. Ransack 4. | If you do, give yourself 2 Nascent Studs.",
     "bio": "Anyone can join the Familey on one simple condition: Impress the boss with your brutality.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -17307,7 +17307,7 @@
     "effect": "During your end step, if you control a Bioblader: Draw a card from your Immortal Sword Deck.\nWhenever you cast an Immortal Sword: Summon a 100/300 Bioblade Digger.",
     "bio": "The Heights had fallen. The swords - disappeared. Perhaps this'll be a '''galactic''' chance to make great archaeological discoveries!",
     "color": "Yellow",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -17596,7 +17596,7 @@
     "effect": "Encore. Summon a 600/0 Guitar with Overload. It gains 100 Power whenever you cast an action.",
     "bio": "Left unchecked, a little sound can grow into a fully fledged performance.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -17755,7 +17755,7 @@
     "effect": "If you control eight Bees, cast this card for free. All allied Bees gain 300 health and power.",
     "bio": "You think it is all over? No, it has only just beegun.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Legendary"
   },
   {
@@ -17980,7 +17980,7 @@
     "effect": "Summon an 800/400 Godbeast Whelp with Haste. Deal 100 Damage to all fighters.",
     "bio": "\"Godbeasts are theoretically impossible to exist in our material plane. Tonight we hunt one, dear.\" [[Hallow Sinister, Patriarch|Hallow]], to [[Terry Sinister|Terry]]",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -18199,7 +18199,7 @@
     "effect": "Attach to a target fighter.  | \nWhenever you cast an allied fighter: Attach a copy of this gear to that fighter, except it's fading.",
     "bio": "\"Curse you, [[Warriors of Justice]]! You whining kids in spandex fight the gift of despair! Let the hatred flow freely!\" <br/>\n-[[Blackmoore, Invented Evil|Blackmoore]]",
     "color": "Yellow",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -18373,7 +18373,7 @@
     "effect": "Lock a target fighter for 1 turn. Summon a 600/200 fighter.",
     "bio": "It's all fun and games until somebody gets frozen.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -18587,7 +18587,7 @@
     "effect": "Deal 200 damage to a target enemy fighter. | Repeat this process for each Blessing in your hand. | Put an Eldritch Blessing onto a card in your hand.",
     "bio": "Adreti's fanatacism barely fazed the Cadet as the moon-blessed sword swiftly cut through the Archangel.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -18708,7 +18708,7 @@
     "effect": "Deal 200 damage to all fighters. Then if you've cast another Action this turn, deal 300 damage to all fighters.",
     "bio": "\"Burn everything in glorious sunlight. If I can't have Cothran, no one else can.\" -Evercyan, Lord of the Federation",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -18736,7 +18736,7 @@
     "effect": "Fading.  | \nA target fighter gains 150 health and power. Give yourself a copy of this card that costs 1Y more.",
     "bio": "Don't ask why the Grand Chicken Lord has so many chicken legs.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -18749,7 +18749,7 @@
     "effect": "Fading.  | \nDraw a card except it's inert in all zones. Give yourself a copy of this card that costs 1B more.",
     "bio": "It might seem like hypothermia, but in reality it's like [[Dodgeball Throw|getting knocked in the face with a dodgeball]].",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -18780,7 +18780,7 @@
     "effect": "Shuffle 7 Infernal Fans into your opponent's deck.",
     "bio": "Disguised as chairs and stands, the Infurnished horde silently outnumbered the crowd. Their one wish was for their rescuer to win.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -18806,7 +18806,7 @@
     "effect": "Fading.  | \nDeal 150 damage to all enemy fighters. Give yourself a copy of this card except it costs 1R more.",
     "bio": "BURN! BURN! BURN! BURN... BURRRRN!!!",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -18821,7 +18821,7 @@
     "effect": "When this card is cast: Give yourself a Moonleak. Whenever you cast your first action each turn, if it's a token: Draw a card.",
     "bio": "We were not all born to remain on planet Earth. In the hum of electricity my heart hears a melody. We've been here before, in some distant memory - I don't want to wake up from this dream!",
     "color": "Blue",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -19177,7 +19177,7 @@
     "effect": "Unstoppable. | Rageborne. | Once, when you're in Rage: Give yourself all 3 pieces of Isaak's gear, each 6{R} with +200/+600 stat bonus.",
     "bio": "<font color=\"#FF0000\"><b>\"LET ALL WHO SEEK GLORY OVER THE WEAK AND BROKEN BE BROKEN UPON MY BLADE!\"</b></font>",
     "color": "Colourless",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Legendary"
   },
   {
@@ -19427,7 +19427,7 @@
     "effect": "Your opponent draws a card. Destroy that card if it's not cast this turn. | Give yourself a copy of this card. | You can't cast actions this turn.",
     "bio": "[[Javion]]'s Christmas traditions involve giving bail to as many criminals as possible.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -19443,7 +19443,7 @@
     "effect": "When this card is cast: Give yourself 2 Robux Stacks.\nWhenever you cast a Money Stack, if there are 4 Robux Stacks in your Graveyard: Give yourself a random Yellow Card.",
     "bio": "N/A",
     "color": "Yellow",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -19682,7 +19682,7 @@
     "effect": "0 charges.\nWhenever a non-Yellow fighter is cast: This card gains a charge. Then if it has 10 charges, the active player destroys this card and all of their enemy fighters.",
     "bio": "\"[...] His studbomb, originally designed to kill non-revel devils, can be hacked to employ an alternative discriminator.\"\n-[[Astarossa's Contingency Plan|Astarossa's Contingency]], Page 8",
     "color": "Yellow",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Legendary"
   },
   {
@@ -19711,7 +19711,7 @@
     "effect": "Obliterate all fighters. | Both players summon four random fighters.",
     "bio": "\"...what just happened?\"",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -19855,7 +19855,7 @@
     "effect": "Summon John Doe and Jane Doe, each 300/300 fighters with a different effect.",
     "bio": "Hello. Friend.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -19869,7 +19869,7 @@
     "effect": "Inject a target fighter.",
     "bio": "Those of the Enzyme must keep taking it to stay alive; Astarossa would condemn the Astral Faith if he knew about their grizzly recruitment strategy.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -20193,7 +20193,7 @@
     "effect": "Inert in all zones. Attach to a target fighter.",
     "bio": "Not wearing the merchandise marks you as an outcast. [[Narrowminded Oddities|Everyone loves]] the [[Warriors of Justice]].",
     "color": "Colourless",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -20206,7 +20206,7 @@
     "effect": "This card is immune to damage, powerloss, locking, returning, returning, destruction, transforming setting, swapping, and obliterating card effects.\nWhen this card is cast: Lose.",
     "bio": "These are worthless i dont know why i added these",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -20299,7 +20299,7 @@
     "effect": "Give all players 3 rubber ducks. If a target fighter costs 3 or fewer total studs, return it to its hand.",
     "bio": "Ask [[Kara Sinister|Kara]] to \"be quiet\" and she might just deck you in, if she's feeling nice. Still, [[Herrus, Elder Thought Demon|Herrus]] told her it was the only way to reach the [[Infurnished (Group)|Infurnished]] holding cells, deep below.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -20365,7 +20365,7 @@
     "effect": "When this card is cast: It deals 100 damage to all fighters.\nWhenever you cast a fighter, if you control exactly one fighter: It gains 150 Health and Power.",
     "bio": "N/A",
     "color": "Red",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -20699,7 +20699,7 @@
     "effect": "You lose 500 Life.\nDraw 2 cards.\nSelect 2 cards in your hand. Draft them and all actions in your hand.",
     "bio": "What once started as a bounty hunter's promise to relieve [[Kathara]] of fear, became an inspiration for Katharans everywhere. We can stand together and fight to survive.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -20841,7 +20841,7 @@
     "effect": "Put two Kittens into your hand. Unlock and return all Kittens.",
     "bio": "Causes cats to act a bit silly. Alternatively, you can use chamomile and lavender for the same effect. Don't give them too much, though, as chamomile can be toxic to cats in large amounts.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -21076,7 +21076,7 @@
     "effect": "All allied fighters gain 300 power.",
     "bio": "A kit of weapons and ammo for your fighters, or Devil Beater Interns.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -21248,7 +21248,7 @@
     "effect": "0 Charges. | Whenever an enemy fighter dies during your turn: This card gains a charge and your opponent gains 50 life. Then if this card has 12 or more charges, obliterate it and summon H.I.M.",
     "bio": "Enjoy your stay, and don't forget to visit our famous One Chunk Lake!~",
     "color": "Yellow",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -21652,7 +21652,7 @@
     "effect": "Inert in all zones. Advanceable (To Advance your deck, move all Advanceable cards in it 6 spots up).  |  When this card enters your hand: A target fighter gains 200 Health and Power. Put this card in your baseplate, then draw a card.",
     "bio": "Congrats! You killed many enemies! Now do it a hundred more times to get to the next area where you kill even more worthless enemies! And then do it again, again, again, again…",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -21759,7 +21759,7 @@
     "effect": "Recur 2 allied cards with continued.  | \nFor each allied gear, summon a copy of it that's a 300/300 fighter.",
     "bio": "\"If you find the oldest being in the spire, it'll kill me. It'd kill [[Deidre, Timeslayer|Deidre]]. It'll kill [[:Category:Continued|everyone relying on those plants]]. Don't you want me to live, [[The Sacrifice|Alex]]?\"\n-Nicholas Feodorovna",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -21970,7 +21970,7 @@
     "effect": "If your hand has 4 or fewer cards in it, a target fighter gains 350 Health. | If your hand has 5 or more cards in it, a target fighter gains 350 Power. \n(Do both if they're both true.)",
     "bio": "\"Reality is one giant plothole, and I am the scathing critic.\"<br>--[[The Auteur]]",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -22281,7 +22281,7 @@
     "effect": "If it's after the second player's 15th turn, cast this ignoring its Colourless cost. Shuffle five random blue cards into your deck, then draw 5 cards.",
     "bio": "At the very centre of [[The World of Wood|the World of Wood]], there are [[The Transcendent Voidoaks|the Voidoaks]], which has every event ever to happen within the World of Wood etched onto its bark. Reading the Voidoaks - or, perhaps, drinking from the Voidoaks' sap - makes people omniscient, although [[the Wanwood Dryad]] would never allow it.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -22419,7 +22419,7 @@
     "effect": "Fading. Cast this card using four Colourless studs if you have 1500 or less life. | \nDeal 1500 damage to all fighters.",
     "bio": "Sometimes, you just have to trust in lobsters.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -22545,7 +22545,7 @@
     "effect": "A target fighter gains Moonward. | All allied fighters with Moonward gain 200 Health.",
     "bio": "''Prowess without stability will only lead to self-destruction.''",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -22559,7 +22559,7 @@
     "effect": "Attach to a target fighter.  | \nIt has Defender for as long as this card is attached to it.",
     "bio": "Seeing the flood of essence flowing towards him, Lua acted quickly.",
     "color": "Blue",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -22574,7 +22574,7 @@
     "effect": "Return all Epic and Legendary fighters to their owners' hands. Summon a 1100/100 Paraselene Warden that prevents the casting of Epic and Legendary cards. Deal 50 damage to all allied fighters.",
     "bio": "[[Eclipse, Werewolf Colossus|He]] let out one last howl as [[Crystal Snare|the lunar crystals locked]] him in place.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -22588,7 +22588,7 @@
     "effect": "Select up to 2 cards in your opponent's hand. They gain unique and can't be discarded.",
     "bio": "Freeing herself from the Rageborne's grasp, Yuéliáng quickly grabbed her staff and pacified the creature's emotions.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -22678,7 +22678,7 @@
     "effect": "A target fighter gains 150 power. Summon a 500/50 Lycanthrope. If you control two Lycanthropes, unlock them all.",
     "bio": "\"I was there when [[Eclipse, Werewolf Colossus|Eclipse]] rose up to your oppression, [[Lua, Paraselene Evincar|Lua]]. I'll never let his tale be forgotten to history.\"",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -22772,7 +22772,7 @@
     "effect": "Whenever you cast your first or second action each turn: Give yourself a random Fast Food action.",
     "bio": "\"The food here tastes delicious, the staff are friendly and courteous too. It's definitely better than Soul's Pizza. We recommend their giant calamari.\" -XxCultureIndustryxX",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -22961,7 +22961,7 @@
     "effect": "Attach to a target fighter.\nWhen this card is cast: Destroy all allied gear, replacing them with copies of this card.Whenever this fighter attacks and destroys another: Search your deck for a Colourless card and you gain a fleeting 1C.",
     "bio": "N/A",
     "color": "Colourless",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -23315,7 +23315,7 @@
     "effect": "Thrice each turn, Whenever you cast another fighter or terrain that costs exactly 4 studs: Seance a card in your deck that costs 4 or fewer total studs. It becomes Colourless.",
     "bio": "''A beautiful meadow full of flowers.<br>A perfect spot for a picnic.''\n\n''With resplendant thanks to: Astrozizer''",
     "color": "Colourless",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -23341,7 +23341,7 @@
     "effect": "A target fighter deals damage to itself equal to its power.",
     "bio": "The [[Thrilled Spectators|crowd]] loved the [[Cow|cows]] and [[Infurnished (Group)|furniture raining]] from the rooftops. The [[Gladiator (Group)|contestants]] most certainly did not.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -23651,7 +23651,7 @@
     "effect": "Put a Green Stud into your Baseplate. If you gained 600 life this turn, draw a card.",
     "bio": "Still hunting for the right head.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -23727,7 +23727,7 @@
     "effect": "If you have 1000 or less life, cast this card using five Red studs. Destroy a target enemy fighter. Search your opponent's deck for a copy of that card, except its cost is four Colourless studs",
     "bio": "The force of the Impact that struck Javion, held within [[Eclipse, Werewolf Colossus|the Colossus']] fist",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -23998,7 +23998,7 @@
     "effect": "Obliterate your deck.\n|",
     "bio": "The last words that [[Eisenhower Dwit|Eisenhower]] wanted to hear at the hospital were the ones he did: \"I'm sorry.\"\n|",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -24058,7 +24058,7 @@
     "effect": "If you control a fighter, deal 350 damage to a target allied fighter and 350 damage to a target enemy fighter.",
     "bio": "N/A",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -24089,7 +24089,7 @@
     "effect": "At the start of each player's turn: That player gives themselves a copy of a card in their opponent's deck.",
     "bio": "Yes, [[Bored Mo|mohammed1336]] has been coding on the floor since day 1...",
     "color": "Colourless",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -24136,7 +24136,7 @@
     "effect": "Inert when discarded. A target fighter gains 50 Health.",
     "bio": "Cast this card, then click a fighter. You'll be amazed how good it is!",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -24253,7 +24253,7 @@
     "effect": "Cast only if there are 11 or more fighters in play. Unlock all allied fighters. They gain 200 health and power.",
     "bio": "[[Yuki, Champion of Emotion|Yuki]]'s mood changes with enough speed to pierce armour.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -24266,7 +24266,7 @@
     "effect": "A target fighter generates. Transform it into a Cow.",
     "bio": "Althouth born after [[Javion]]'s [[The Robloxian Overlay|overlay]], [[Claudia Sinister]] is fascinated with what [[Cow|creatures]] it brought.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -24295,7 +24295,7 @@
     "effect": "A target fighter gains 350 Power.",
     "bio": "Elementary [[Paraselene (Playstyle)|Moon sorcery]]. Often used on [[Paraselene Trainee|Trainees]], to harden their resolve for the painful path that awaits them.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -24308,7 +24308,7 @@
     "effect": "Inert when discarded. | Draw a card.",
     "bio": "[[Nibblex the Starkiller|Nibblex]]'s meal was a cage for [[Eclipse, Werewolf Colossus|an even worse monster]].",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -24434,7 +24434,7 @@
     "effect": "Whenever an allied fighter dies: allied fighters gain 150 Power until your next end step.",
     "bio": "King Brendan gazed upon the beast's ritual, A million deaths were not enough to satiate it.",
     "color": "Yellow",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Legendary"
   },
   {
@@ -24486,7 +24486,7 @@
     "effect": "At the start of each player's turn: That player may baseplate an additional card this turn. Give their opponent a Titanic Stud card.",
     "bio": "Legend has it that Mount Xargasdon was the first of Robloxia's pillars to touch the heavens. The [[Titan (Group)|titans]] gave chase, worried it would fly away.",
     "color": "Red",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -24697,7 +24697,7 @@
     "effect": "Cast only if you control an aspect of Shedletsky. Turn your Shedletsky into his yellow form, Paragon of Unity. It gains 500 health.",
     "bio": "A thriving chicken limb, filled with a billion different possibilities.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -24826,7 +24826,7 @@
     "effect": "3 charges. Whenever an Action is cast: Spend a charge to put a bootstrapped copy of it in your baseplate that is inert in all zones. \nAt the start of your turns, if there's three or more bootstrapped cards in your Baseplate: Cast them all, then destroy this card.",
     "bio": "An endless loop created by unknown interference. If this card was delivered from the future, who created it?",
     "color": "Blue",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -24836,7 +24836,7 @@
     "effect": "During your end step: This card generates for each 4 million DRAGONFORCE you have.",
     "bio": "Our parents have been avenged for their banishment!",
     "color": "Colourless",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -25021,7 +25021,7 @@
     "effect": "Select 1 effect  | \n- Destroy your opponent's terrain. They draw a card.  | \n- Move all gears on all allied fighters onto a target fighter.  | \n- Summon a 400/300 Noob that's inert in play.",
     "bio": "The more time [[The Tainted|the Tainted]] spent in [[Great Justice City|justice city]], the stranger the world seemed to him.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -25124,7 +25124,7 @@
     "effect": "Inert in all Zones. | Look at 3 fighter cards in your graveyard and choose one. Recur that card. It gains Zombified.",
     "bio": "Its horrid potential never crossed [[Eisenhower Dwit|Eisenhower]]'s mind. He only wanted to bring back his [[Artemis Carter|love]].",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -25157,7 +25157,7 @@
     "effect": "At the start of your turns: Seance a card in your opponent's graveyard that was cast this game. Whenever you discard your third card each turn: Divide a target fighter into two copies of itself.",
     "bio": "The NeFoCo produce the Enzyme at an industrial scale, attracting idealists and opportunists alike.",
     "color": "Blue",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -25202,7 +25202,7 @@
     "effect": "Fading. Unique in graveyard.\nAttach to a target fighter. Whenever this fighter attacks: It gains 200 power until your next end step.",
     "bio": "The blood coursing through you continues to boil. The roar of flames continue to engulf the screams of others.",
     "color": "Red",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -25246,7 +25246,7 @@
     "effect": "Summon up to 3 Neodragon fighters that have died this game except they're Terrified. Unlock all allied Neodragons.",
     "bio": "The only thing that held the Neodragon's return was the Alpha Brick.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -25274,7 +25274,7 @@
     "effect": "Recur all allied Stud cards and remove 2C from their cost. A target fighter gains 300 Health and Power for each non-token card reccured this way.",
     "bio": "The destruction of the Alpha Brick destroyed the seal that banished the dragons aeons ago. Infused with their titan cellmates, they wish to subjugate Robloxia once again.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -25302,7 +25302,7 @@
     "effect": "Deal 50 damage to all enemy fighters for each million DRAGONFORCE you have. You gain 2 million DRAGONFORCE.",
     "bio": "N/A",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -25327,7 +25327,7 @@
     "effect": "Search your deck for a Neodragon card for each 2C you have. You lose all your Colourless Studs and gain 2 million DRAGONFORCE.",
     "bio": "N/A",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -25337,7 +25337,7 @@
     "effect": "All allied Neodragons gain 50 Health and Power for each Colourless Studs you have. You lose all your Colourless Studs and gain 2 million Dragonforce.",
     "bio": "N/A",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -25352,7 +25352,7 @@
     "effect": "During your end step: Give yourself a fleeting Moonleak that costs 3B to cast.",
     "bio": "\"The rain's too heavy to march? This is why [[Korblox Skeleton|skeletons]] are better than you lot! They don't complain about some sog! What's it like having a worse work ethic than a bloxdamn corpse!?\" - Kgxraqyt, [[Korblox Deathkeeper|Korblox Deathkeeeper]]",
     "color": "Blue",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -25455,7 +25455,7 @@
     "effect": "Your opponent loses 1200 Life. Give yourself a copy of this card.",
     "bio": "The world burns.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -25517,7 +25517,7 @@
     "effect": "Whenever an action is cast: Your opponent loses 200 life.",
     "bio": "After [[It that was Silenced|Eclipse]] was [[Lunar Banishment|banished]], the [[Lycanthrope (Group)|Lycanthropes']] home was left unguarded.",
     "color": "Red",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -25551,7 +25551,7 @@
     "effect": "At the start of your turns: You may select an allied fighter and return it to your hand. | Whenever an allied fighter is returned to your hand: It gains 50 health and power.",
     "bio": "The start of your adventure. Which path will you take?",
     "color": "Blue",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -25677,7 +25677,7 @@
     "effect": "Can't be discarded. You lose 300 Life.",
     "bio": "Spooky.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -25687,7 +25687,7 @@
     "effect": "Can't be discarded. Each player draws a card. Destroy the card you drew if it's not cast this turn.",
     "bio": "It begins.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -25748,7 +25748,7 @@
     "effect": "Summon three Kittens. Put three Kittens into your hand and deck, then ready all Kittens. They gain 200 health and power.",
     "bio": "It's time for the uprising to begin.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Legendary"
   },
   {
@@ -25761,7 +25761,7 @@
     "effect": "Return all allied Ninjas to their hand. Deal 300 damage to all fighters.",
     "bio": "They make for valuable moving target practice.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -25938,7 +25938,7 @@
     "effect": "Whenever a player discards their first card each turn: Until the next end step, skip all of that player's effects that trigger during their end step or when a fighter is cast.",
     "bio": "[[Priestess Zanzel, the Promised One|Zanzel]] squinted into the distance. Normally, such a [[Noli, Demon Seeker|demon]] would make her blood boil. Yet, now, she sighs. She knows [[Alpha Brick's Destruction|what happens]] when you try to restore the world.",
     "color": "Blue",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -26090,7 +26090,7 @@
     "effect": "Attach to a target fighter. | Whenever you discard your third card each turn: Unlock this fighter.",
     "bio": "\"The speed and power it gives to its wielder is super!\"<br>Haha, Super? Nova?, get it?\"<br>\"Shut up Yuki.\" <br/>\n-Bill, Black Justice",
     "color": "Yellow",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -26209,7 +26209,7 @@
     "effect": "Select an unranked Dragon card in Beckoned Masters in your deck or graveyard. Summon it, triggering its effect as though it was cast. Then obliterate it unless there's 4 or more allied Acolytes.",
     "bio": "Today, everything just seems to fall apart. But the light will still take 2.4197 x10^21242 years to reach our planet, so we'll never know...",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -26271,7 +26271,7 @@
     "effect": "Attach to a target fighter.  | \nWhenever this fighter attacks: Reveal the top card of each players' deck. Choose to have all players draw their card or destroy their card.",
     "bio": "The blade is barely visible; Its sheen is a mirror through which the world is peeled back [[The Noumenon|and seen as it truly is.]] Shame it also made me hideous!\" - [[The Tainted]]",
     "color": "Yellow",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -26398,7 +26398,7 @@
   },
   {
     "name": "Oddman's Gambit",
-    "card_type": "Action"
+    "card_type": "Fighter"
   },
   {
     "name": "Offroad Mechabike",
@@ -26607,7 +26607,7 @@
     "effect": "When this card is cast: Ready and return a target allied fighter to your hand, except it's Mindbroken.\nWhenever you cast a Mindbroken fighter: All allied fighters gain 100 power.",
     "bio": "The holding cells of all the people the Orinthians abduct. They're treated very well.",
     "color": "Colourless",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -26754,7 +26754,7 @@
     "effect": "Cast only if you control an Orinthian. Ready and return a target fighter, then each fighter with the lowest power to their owners' hand.",
     "bio": "Emboldened by [[Hallow, the Sugarlord|Hallow]]'s kidnapping, the Orinthians went more brazen, eventually stealing the whole [[The World of Wood|World of Wood]].",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -26811,7 +26811,7 @@
     "effect": "Cast only if you control an Orinthian. Ready and return a target allied fighter to your hand. Draw two cards.",
     "bio": "One month after the [[Alpha Brick's Destruction|destruction of the Alpha Brick]], strange creatures appeared. These cryptids - these \"Orinthians\" - kidnapped several [[Dwarf (Group)|dwarves]] before [[Mount Xargasdon]] exploded.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -27202,7 +27202,7 @@
     "effect": "Unlock all allied fighters. They gain 200 Health. Return them to your hand. You gain two Colourless studs.",
     "bio": "You have two turns to beat [[Agodlypancake|me]], [[IcyTea|Tea]]! Or else I'll get to a petrol station, fuel up on pancakes, and rush you down with my Egg-Eyes Batter Dragon!",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -27666,7 +27666,7 @@
     "effect": "You can't discard this card. | All allied fighters lose 200 power.",
     "bio": "N/A",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -27697,7 +27697,7 @@
     "effect": "Destroy two cards from your opponent's hand. Draw two cards.",
     "bio": "Precise, Clean cuts. Perfect mastery of blade and form. The pinnacle of [[The Federation (Group)|Federation]] engineering. 9/10. - [[Ancalagon Sword Critic|Sword Critic]]",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -27792,7 +27792,7 @@
     "effect": "During your end step: Destroy your hand. Give yourself six Rare cards.",
     "bio": "Step right up! The classic parade returns once more!",
     "color": "Yellow",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -28219,7 +28219,7 @@
     "effect": "At the start of each player's turn: Each fighter generates.",
     "bio": "A carnival of delight and revel, for all those looking for a great time. Watch the world's [[Gladiator (Group)|strongest and most mysterious beings]] battle eachother! Brought to you by [[Lord Umberhallow]]!",
     "color": "Yellow",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -28233,7 +28233,7 @@
     "effect": "Put a Pixie's Mischief in your opponent's baseplate. Draw a card. You lose 500 life.",
     "bio": "The magical trail left behind by a pixie is enough to entice any explorer of [[The World of Wood|the World of Wood]] to follow behind, hoping to be lead to something important.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -28262,7 +28262,7 @@
     "effect": "Inert in all zones. Draw a card.",
     "bio": "The pixies of the [[The World of Wood|World of Wood]] are most known for their mischievous behaviour, playing tricks on [[Xylem Student|others]] of their enjoyment.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -28312,7 +28312,7 @@
     "effect": "Once each turn, whenever you discard a Meka card: You may return a target allied fighter to its hand. Train it. It costs 1 less Colorless, Red and Yellow stud and gains Haste.",
     "bio": "Rumors of a powerful fighter resting within Planet Meka's core are common to find in space forums.\nUnfortunately for the Mekas, a [[Pier|certain legendary super bouncer's]] looking for his next rival.",
     "color": "Red",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -28675,7 +28675,7 @@
     "effect": "During your opponent's end step, if they spent more than 15 seconds during their turn: They lose 1500 life.",
     "bio": "When we poison the earth, we poison ourselves.",
     "color": "Red",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Legendary"
   },
   {
@@ -28713,7 +28713,7 @@
   },
   {
     "name": "Pot Of Gold",
-    "card_type": "Action"
+    "card_type": "Fighter"
   },
   {
     "name": "Possessed Skull",
@@ -28781,7 +28781,7 @@
     "effect": "During your end step:\nThe player with the fewest cards in hand draws a card. | \nThe player with the fewest fighters in play summons a 200/200 Citizen. | \nThe player with the fewest cards in graveyard puts two Citizens into their graveyard.",
     "bio": "Bloxburg's poorest live on a single street, abandoned by wider society. So, they banded together, forming a pact.",
     "color": "Red",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -28845,7 +28845,7 @@
     "effect": "All enemy fighters lose 100 power. Give yourself 2 smuggled fighter cards that each cost 6 total studs.",
     "bio": "Pre-war tech can be worth quite the coin. If you’re caught smuggling any, you best be ready for a fight.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -28859,7 +28859,7 @@
     "effect": "Attach to a target fighter.  | \nThis fighter has Dextrous for as long as this is attached to it.",
     "bio": "Knowing the forest was one thing. Having the right tools to navigate is another.",
     "color": "Blue",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -29043,7 +29043,7 @@
     "effect": "Destroy two Red and two Green cards from your Baseplate. Give yourself three Red and three Green cards. You may baseplate an additional four cards this turn.",
     "bio": "One would have to be insane to make a deal with an [[Nibblex the Starkiller|intergalactic catastrophe]]. [[Ptenda the Unconquerable|Ptenda]] was fine with the label, for that would be the only way to save his home.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -29059,7 +29059,7 @@
     "effect": "This card costs one colourless stud less for each card in your opponents graveyard. When this card is cast: Obliterate your opponent's graveyard and a target fighter.",
     "bio": "Borrowing' [[Beseech the Mastermind|Ghashendex]]'s orbital cannon was a tough job, but nothing new in terms of cruelty for the [[Hallow, Extortionist of Fun|ex-Lord of the Pits]].",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -29118,7 +29118,7 @@
     "effect": "Attach to a target fighter. Gears can't be attached to this fighter while this card's attached to it.  | \nWhen this card is cast: Draw a card.",
     "bio": "\"I see why [[Wonktooth, Prince Regent|His Illuminance]] handed me this trinket now; Anyone without my fortitude would've succumbed to [[Queen Shedare II|her]] mind control. Your mother will be my magnum opus, Wonktooth.\"<br>-[[The Auteur]]",
     "color": "Blue",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -29152,7 +29152,7 @@
     "effect": "Whenever you discard the first card each turn: Inject a target allied fighter that costs 7 or less total studs.",
     "bio": "\"We spend millions of Bloxbux a year caring for our aging population. If you aren't persuaded by the ethics of ending aging, be swayed by the economy.\"<br>-[[Bloxburg Mayor Astarossa|Astarossa, Mayor of Bloxburg]]",
     "color": "Blue",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -29200,7 +29200,7 @@
     "effect": "Deal 250 damage to a target fighter.",
     "bio": "For the inhabitants of [[Bloxburg in Ruins|Bloxburg]], these bombs are a sign of relentless agony. For [[Hallow, the Sugarlord|Hallow]], it's Tuesday.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -29553,7 +29553,7 @@
     "effect": "A target fighter gains 250 power.",
     "bio": "ROBLOXIANs eat these in a pinch for a power boost. Delicious!",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -29616,7 +29616,7 @@
     "effect": "Cast this card ignoring it's green cost if your opponent controls 4 or more fighters. | Destroy a target fighter. Summon any fighter. Trigger that fighter's effect if it triggers when cast.",
     "bio": "Grant a fallen [[ROBLOX]]<nowiki/>ian life again after being sent to the graveyard. We all have to have another chance, right? This might conflict some morals...",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -30328,7 +30328,7 @@
     "effect": "Inert in all zones. Advanceable.  |  When this card entes your hand: Give yourself a Blue rare and a Yellow rare card. Put this card into your baseplate, then draw a card.",
     "bio": "When the golden armor of the sun has less stats than the basalt helmet...",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -30516,7 +30516,7 @@
     "effect": "Return all allied fighters to your hand. Summon a 1400/400 Space Monster, a Blue fighter, and a Green fighter. Trigger their effects as if they were cast.",
     "bio": "NOT THE SQUID! ANYTHING BUT THAT!",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -30754,7 +30754,7 @@
     "effect": "Attach to a target fighter.\nWhen this fighter dies: Destroy the oldest card in your hand and your opponent's hand.",
     "bio": "It reminds me of a certain flower for some reason...",
     "color": "Red",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -30863,7 +30863,7 @@
     "effect": "Cast only if you control exactly one Redcliff. That Redcliff gains 800 health and power.",
     "bio": "SUPRISE! REDCLIFFS!",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -30891,7 +30891,7 @@
     "effect": "All allied Redcliff fighters gain 600 Power. If you control none, summon a Redcliff Enforcer",
     "bio": "TWO ARMS, MEN!",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -31104,7 +31104,7 @@
     "effect": "Deal 200 Damage to a target enemy fighter.\nSearch your deck for a fighter card of the Resistance. Draft.",
     "bio": "\"There is no shortage of cruel kings, and there's not nearly enough people with the stones to deal with them.\" -[[Volipa the Renowned|Volipa]]",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -31165,7 +31165,7 @@
     "effect": "Whenever your opponent casts a fighter: A fighter in your hand becomes fleeting.  | \nWhenever an allied fighter attacks and destroys another: Fleeting fighters in your hand gain 100 Health and Power. Remove fleeting from all cards in your hand.",
     "bio": "Make it right.",
     "color": "Red",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -31209,7 +31209,7 @@
     "effect": "Summon a 1000/100 fighter that resets its stats during your end steps. If it survives six of your end steps, you win the game.",
     "bio": "The process of freezing to death is usually very painful in the beginning as the nerves can still feel the cold and report the pain to the body.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -31273,7 +31273,7 @@
     "effect": "During your end step: This card gains a charge. Lose 100 Life times the number charges this card has. If you take fatal damage from battle or effects would cause you to be banned: Set your Life to 1500 instead. Draw 2 cards and destroy this card.",
     "bio": "\"Way back when, there were so many fun combos that could be done, but all that's left now is a husk of what once was...\"",
     "color": "Red",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -31332,7 +31332,7 @@
     "effect": "Summon 100/100 Cheering Demon until your board is full. Give yourself 'Half-Time', an action that creates more of them.",
     "bio": "Fighting in the Pits often makes you forget your chances of survival almost depends entirely on the audience's opinion on you.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Legendary"
   },
   {
@@ -31460,7 +31460,7 @@
     "effect": "Cast only if you've cast three actions since your last end step. Search your deck for Skull Collector's Ritual and remove a Colourless stud from its cost. Draw a card.",
     "bio": "To resurrect [[Eclipse, Werewolf Colossus|Eclipse]], [[The Skull Collector|the Skull Collector]] needed four items. Already a pioneer of cloning, [[Eisenhower, the Alchemist|Eisenhower]] had the perfect body. He just had to get to the lower floors of his [[Collapsing Laboratory|laboratory]]...",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -31488,7 +31488,7 @@
     "effect": "Cast only if there's 20 or more cards in your graveyard. Search your deck for Skull Collector's Ritual and remove a Colourless stud from its cost. Draw a card.",
     "bio": "To resurrect [[Eclipse, Werewolf Colossus|Eclipse]], [[The Skull Collector|the skull collector]] needed four items. The [[Lycanthrope (Archetype)|Lycanthropes]] scoured the [[Bloxburg in Ruins|ruined Bloxburg]] for the well of light it was always known for.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -31501,7 +31501,7 @@
     "effect": "Cast only if effects have targeted three times since your last end step. Search your deck for Skull Collector's Ritual and remove a Colourless stud from its cost. Draw a card.",
     "bio": "To resurrect [[Eclipse, Werewolf Colossus|Eclipse]], [[The Skull Collector|the skull collector]] needed four items. [[Hallow Sinister, Patriarch|Hallow]] retreated to his hunting grounds to kill [[Angelic Godbeast|death]] itself.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -31514,7 +31514,7 @@
     "effect": "Cast only if there is 1000 or more Power amongst all allied fighters. Search your deck for 'Skull Collector's Ritual' and remove a Colourless stud from its cost. Draw a card.",
     "bio": "To resurrect [[Eclipse, Werewolf Colossus|Eclipse]], [[The Skull Collector|the Skull Collector]] needed four items. [[Quan Sinister]] had trouble finding a [[Lycanthrope (Archetype)|Lycanthrope]] that wanted its fur shaven.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -31534,7 +31534,7 @@
   },
   {
     "name": "Roblox Gears",
-    "card_type": "Action"
+    "card_type": "Fighter"
   },
   {
     "name": "Robey100",
@@ -31581,7 +31581,7 @@
     "effect": "Whenever you cast an epic card: A target fighter gains 200 Power. Whenever you cast a legendary card: Deal 200 damage to a target enemy fighter.",
     "bio": "The Primordials were not without pride: If he could best all four of them at winning the fabled award, the Brick would be all his without strife.",
     "color": "Red",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -31594,7 +31594,7 @@
     "effect": "Give yourself an Uncommon card. Give your opponent a copy of this card.",
     "bio": "Give the gift of giving the gift of giving the gift of uncommons.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -31625,7 +31625,7 @@
     "effect": "At the start of each player's turn: Each card that player casts this turn using colourless studs costs an additional colourless stud.",
     "bio": "You can't escape the fate of the Titanic, but you can certainly outlive it.",
     "color": "Red",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -31638,7 +31638,7 @@
     "effect": "Fading. Deal 1000 overloaded damage to a target fighter.  | \nGive yourself a copy of this card.",
     "bio": "The Doomspires keep growing and growing, choking out native life like a planet-sized weed.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -31756,7 +31756,7 @@
     "effect": "Stealth. Inert when discarded. 7 Charges. A target fighter gains 50 health, then remove a charge.",
     "bio": "Your shipment of bobux has arrived.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -31821,7 +31821,7 @@
     "effect": "At the start of your turns: You lose 600 life. Draw a card.",
     "bio": "One of the deadliest places in all of Robloxia. Enter Chaos.",
     "color": "Red",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -31906,7 +31906,7 @@
     "effect": "When this card is cast: Give yourself Red Paint, Green Paint, Blue Paint and Yellow Paint. | (They’re actions that change the colors of allied fighters)",
     "bio": "Biggs isn't exactly gifted in the field of design. Thankfully his wealth can substitute for that problem.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -31991,7 +31991,7 @@
     "effect": "It does absolutely nothing.",
     "bio": "TEH EPIK DUCK IS COMING!!!",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -32004,7 +32004,7 @@
     "effect": "If you control a member of the Federation, cast this card using six Red Studs.  |  Deal 1000 damage to a target fighter.",
     "bio": "Feels wet to the touch, as if it stained your hands crimson.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -32144,7 +32144,7 @@
     "effect": "Draw 2 fleeting cards. If there's an allied Noob token, transform a target fighter into a Noob token. You can't cast actions this turn.",
     "bio": "OMG My house is on fire! GTG. Wanna be friends? Dinosaurs!",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -32303,7 +32303,7 @@
     "effect": "Summon two 500/400 Fools of the Federation.",
     "bio": "Peering into it, you begin to understand the folly of lesser men.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -32316,7 +32316,7 @@
     "effect": "At the start of each players turn, that player loses 250 life.",
     "bio": "Nothing can survive here...besides [[Ultra (Archetype)|ultras]].",
     "color": "Red",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -32521,7 +32521,7 @@
     "effect": "Draw four cards. | Choose up to four cards in your hand that each cost 4 or fewer total studs. Seance those cards.",
     "bio": "[[Apollo Scott, Visionary|Apollo]] delved deep into the Necroenzyme's practical applications, from the police to funeral workers. He did the work [[Eisenhower Dwit|Eisenhower]] was too distraught to finish.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -32536,7 +32536,7 @@
     "effect": "During your end step: Give yourself a coloured Arrow action.",
     "bio": "Don't let him near ants.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Legendary"
   },
   {
@@ -32549,7 +32549,7 @@
     "effect": "Cast only if you control an aspect of Shedletsky. Turn your Shedletsky into his blue form, The Resonator. He gains 500 health. Effects can't return Shedletsky while in this form.",
     "bio": "A curious chicken limb. Thinking about the possibilities provided makes your head spin.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -32610,7 +32610,7 @@
     "effect": "Cast this card to the opponent's terrain slot. When this card is destroyed: You lose 750 life. Destroy the oldest card in your hand.",
     "bio": "The lands fell as armies marched.",
     "color": "Red",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -32778,7 +32778,7 @@
     "effect": "Look at the top two cards of your deck. | Destroy one of them, then draw a card. | Whenever you recur a card, if this card is in your Graveyard: Obliterate it. Give yourself a copy of it.",
     "bio": "\"Those [[Paraselene (Playstyle)|Paraselene]] fuds can go oan 'eir trolley! The fleggers'd rather chug 'eir own ego than 'elp us wee barras. We're a' [[Dukran the Elysian|Dukran]]'s bairns.\" - [[Caitlin, Paladin of Nature|Caitlin]], CEO of Arkhive",
     "color": "Blue",
-    "card_type": "Action"
+    "card_type": "Fighter"
   },
   {
     "name": "Searchlights",
@@ -32813,7 +32813,7 @@
     "effect": "Choose a target fighter. All allied police gain 50 Health and Power for each lock that fighter has. They can't gain more than 500 this way.",
     "bio": "Facing bomb threats and ghostly developers, the event's security had to step up their game.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -32932,7 +32932,7 @@
     "effect": "Obliterate a target allied fighter. Each card in your graveyard becomes a copy of that fighter.",
     "bio": "Worn out from his battles, [[Lua, Paraselene Evincar|Lua]] never stood a chance in a direct fight against the [[Eclipse, Werewolf Colossus|Colossus]]. As the world around him began to fade, he caught a glimpse of his first regret once last time, then at last, comfort.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -33041,7 +33041,7 @@
     "effect": "Attach to a target fighter.  | \nDuring your endstep: For each card type you've cast this turn: This card gains +50/+50 stat bonus.",
     "bio": "\"It's real strong, dude. You should use it,\" ordered [[Wonktooth, Prince Regent|Wonktooth]].<br/>\n\"But it's not shiny!\" Cried the guard, much to the prince's frustration.",
     "color": "Blue",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -33108,7 +33108,7 @@
     "effect": "Inert in play. Transform a target allied fighter into this card, then divide it into 4 copies of itself. When this card dies: Shuffle an Era card into your deck, then draw a card.",
     "bio": "As Zanzel held the Brick against the Collosus' attack, she failed to notice the cracks that spread throughout the surface - as well as the glimpes of four factions once lost to time.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -33346,7 +33346,7 @@
     "effect": "Attach to a target fighter. | 0 charges. If this fighter would take damage, spend a charge to negate it. During your end step, if this card has no charges: It gains a charge.",
     "bio": "The coat hides many many [sic] scars. The armor, even more so.",
     "color": "Blue",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -33376,7 +33376,7 @@
     "effect": "Attach to a target fighter.  |  \nWhen this fighter dies: Summon a 400/150 Noob that's inert in play.",
     "bio": "The autonomous animatronics allow for a wide variety of childlike roleplaying.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -33535,7 +33535,7 @@
     "effect": "Whenever an allied fighter attacks, destroys, and deals excess damage to an enemy fighter: Give yourself its Flying Giblets. It deals damage to a target enemy fighter equal to the excess damage dealt this way.",
     "bio": "\"They were onto something, calling this a no-man's land. After all, i ain't just a 'mere man', haha!\" - Sig Nalrad",
     "color": "Red",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -33585,7 +33585,7 @@
     "effect": "Attach to a target fighter.  | \nDuring your end step: Move all gear on all allied fighters onto this fighter, then it spirals.",
     "bio": "\"Woah woah woah! Why do these [[Gilmuraig|gilmuraigs]] have the same symbol you stuck on me? Did you know about this place?\" <br/>\n[[Nyarlhotep's Razor|The razor]] wilfully ignored [[The Tainted|the Tainted's]] questions.",
     "color": "Yellow",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -33631,7 +33631,7 @@
     "effect": "Put a Pact of Condemnation into each player's Baseplate.  |  For each allied Sinister, Search your deck for a Sinister card.",
     "bio": "When you're at risk of losing yourself to [[Apocrypha (Group)|crazed phantoms]] or dying to [[Ultra (Group)|savage aliens]], there wouldn't be much time to consider an alternative to cooperating with the Sinisters.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -33678,7 +33678,7 @@
     "effect": "Steal the two oldest cards in your opponent's hand. They draw two cards. You gain two Nascent Studs.",
     "bio": "Few things could anger the [[Hallow Sinister, Patriarch|Umberlord]], messing with his family is one of them - something the [[Orinthian (Group)|Orinthians]] did not account for.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -33739,7 +33739,7 @@
     "effect": "A target fighter gains 1000 Health. Lock it for 2 turns.",
     "bio": "In the advanced utopia of [[Havalu]], people can have whatever body they want. It's a shame they're so uncreative.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -33752,7 +33752,7 @@
     "effect": "Give yourself 'Eclipse's Resurrection.' Search your deck for all four Ritual Parts. You gain 1000 life.",
     "bio": "[[Ritual Part: Husk Newt|Body]], [[Ritual Part: Godbeast's Skull|Spirit]], [[Ritual Part: Werewolf Fur|Fur]], and [[Ritual Part: Vitality Wellspring|Vitality]]. This would resurrect the Moonbreaker. A question remained: How to obtain them?",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -34126,7 +34126,7 @@
     "effect": "Reveal your opponent's hand. | Summon Snyfort, a 400/500 fighter.",
     "bio": "What is the only word in the dictionary spelt incorrectly?",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -34204,7 +34204,7 @@
     "effect": "At the start of your turns: Destroy all gears attached to this card. Attach a Disaster to this card.",
     "bio": "Something Evil will happen in 10 seconds...",
     "color": "Colourless",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -34274,7 +34274,7 @@
     "effect": "Exchange a target enemy fighter with a random non-token fighter from their baseplate (if one exists).",
     "bio": "[[Hallow Sinister, Patriarch|Hallow's]] usual jovial behaviour masks how ruthless he is when he collects the debt you owe.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -34287,7 +34287,7 @@
     "effect": "You gain 500 lfie. | Draw two cards.",
     "bio": "\"When you bind a million spirits into a single space, there's bound to be criminal essences. Cast them away into the light and let gentler souls take their place.\" -[[Ptenda the Unconquerable|Ptenda's]] guide to Aeonmancy, Cp. 14",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -34635,7 +34635,7 @@
     "effect": "Draw a card. Seance a card in your graveyard that was cast this game. All allied fighters gain 100 power until your next endstep.",
     "bio": "\"You've been invaluable, Margaret. Thanks for telling us who killed you.\"",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -34679,7 +34679,7 @@
     "effect": "Draw a card if there's 4 colours among cards in your baseplate. Put a Red, Blue,  and Green stud in your baseplate.",
     "bio": "Go Two-Face without going Poo-Faced!",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -34725,7 +34725,7 @@
     "effect": "During your end step: Set your colourless studs to 4.",
     "bio": "No [[WishNite|Wishnites]] allowed.",
     "color": "Colourless",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -34817,7 +34817,7 @@
     "effect": "Attach to a target fighter. Whenever this fighter attacks: Set your Colourless to 4.",
     "bio": "\"A memento of an old heroine, a saviour of her people against the barbarians. How sad this world is that heroes roam it no more.\" <br/>\n-[[Claymaker, Master Architect|Claymaker]]",
     "color": "Red",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -34866,7 +34866,7 @@
     "effect": "Give yourself a copy of a target fighter, except it has {Y}{Y}{Y} added to its cost and gains 300 Health and Power. | Give yourself 4 100/50 Engineer's Robots that cost {Y} with haste and are inert in all zones.",
     "bio": "The true heroes of a team are those who stand strong in the face of danger, allowing their allies to gather their strength to push back stronger.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -34897,7 +34897,7 @@
     "effect": "Fading. All fighters in your graveyard gain 100 Health and Power. Put a drafted copy of this card in your graveyard.",
     "bio": "\"I won't allow a galactic nation seize control over us at the apex of our liberation. This is the final battle that will decide our fates.\" -[[Volipa the Renowned|Volipa]]",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -35247,7 +35247,7 @@
     "effect": "Put this card into your Baseplate.",
     "bio": "The basic energy of Robloxia. Studs contain great power.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -35357,7 +35357,7 @@
     "effect": "All allied fighters gain 300 power. You can't attack this turn.",
     "bio": "Insurance fraud has consequences.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -35638,7 +35638,7 @@
     "effect": "Summon Phase & DeproDJ, two fighters whose effects benefit one another.",
     "bio": "A worn-down playing card with a different look to the rest of the ones you’ve seen. It feels heavy in your hand. How would it work in a duel?",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -35683,7 +35683,7 @@
     "effect": "Attach to a target fighter. | Whenever this fighter attacks: All allied fighters gain 100 Power until their next endstep.",
     "bio": "\"I know [[Warriors of Justice|they]] [[Gattai!|took]] my wife from me, but.. I don't remember ever having one. The lord of despair works alone.\" <br/>\n-[[Blackmoore, Invented Evil|Blackmoore]]",
     "color": "Yellow",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -35813,7 +35813,7 @@
     "effect": "Draw a card. | If your baseplate rank is 25 or higher: Steal all enemy fighters.",
     "bio": "The Candidates were shocked by the thousands of dreamers around them, each one holding infinite fake worlds and lives complex as their own, each one slowly stirring to the screeching sirens omnipresent in the crumbling doomspire. How many dreams would have to end to preserve the dream of Robloxia?",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Legendary"
   },
   {
@@ -35918,7 +35918,7 @@
     "effect": "Search your deck for a Gladiator card. Draw a card.",
     "bio": "[[Herrus, Elder Thought Demon|Herrus]] lacked the raw charisma to work the [[Thrilled Spectators|crowds]]. [[Kara Sinister|Kara]] was different; she was a heel like no other, [[Crowd's Favour|and the crowd was starting to crave it]].\n\"She's my ticket out of here, but she won't get far unless I break [[Quan Umberhallow, the Crowdpleaser|the pretty boy's]] face in,\" thought the demon.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -36169,7 +36169,7 @@
     "effect": "Choose a target allied fighter. It gains 250 Health and Power for each allied fighter. Destroy all other allied fighters.",
     "bio": "When trying to heal her patients' pain by reviving their lost relatives didn't work, she opted for a more powerful remedy: Removing the ability to feel pain entirely.\nShe was a fool.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -36271,7 +36271,7 @@
     "effect": "Each fighter with the lowest Health gains 250 Health and Power.",
     "bio": "We are very thankful for this feast, now gobble up, [[pilgrim]]s!",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -36360,7 +36360,7 @@
     "effect": "Once each turn, whenever you discard a card from the World of Wood: Deal 100 damage to all enemy fighters. All allied fighters gain 100 Power.",
     "bio": "The outskirts of the World of Wood were the first to be overlayed through time. Their bark is infested with the eggs of the [[Anthrest (Group)|Anthrests]].",
     "color": "Red",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -36375,7 +36375,7 @@
     "effect": "Whenever allied effects have targetted three times this turn: Draw a card. Your opponent loses 400 life",
     "bio": "A Shady harbor of resentment and gold, don't look directly at people for too long lest you get yourself mugged or worse: offered a deal.",
     "color": "Yellow",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -36435,7 +36435,7 @@
     "effect": "While in play, until each player's next end step, any time a fighter would gain Health by another effect, it gains that much Power instead.",
     "bio": "N/A",
     "color": "Blue",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -36496,7 +36496,7 @@
     "effect": "Whenever a fighter dies: All players lose 50 life.",
     "bio": "It's much easier to kill them when they don't expect you. Or they can't handle your awesome [[Wielder of the Firebrand|Firebrand]] range.",
     "color": "Yellow",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -36512,7 +36512,7 @@
     "effect": "7 Charges. \nWhen this card is cast: Search your deck for a Fighter that costs 7 total studs. \nWhenever a card that costs 7 studs is cast: Lose a charge. If this card has 0 Charges: Destroy it. The active player Draws 7 cards, Drains 777 life from their opponent, then gives all allied Fighters 777 Health and Power and Readies them 7 times.",
     "bio": "N/A",
     "color": "Blue",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -36711,7 +36711,7 @@
     "effect": "When this card is cast: Give yourself a Cash Grab card. Whenever you cast a fighter: Deal 50 times X damage to it. During your end step: Gain X Red and Yellow studs. X on this card is the number of Cash Grabs in your Baseplate.",
     "bio": "Lodsamone.",
     "color": "Yellow",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -36727,7 +36727,7 @@
     "effect": "This card costs one less Colourless stud for each allied Token fighter you control. Summon a 1200/0 Fighter. During your end step, it makes all allied token fighters gain 150 Health and Power.",
     "bio": "Home of the Caishen. Pride of Javion. Any resemblance to a certain other tower is purely coincidental.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -36815,7 +36815,7 @@
     "effect": "When this card is cast: Summon two 100/100 Zombified Catgirls. \nDuring your endstep, if four or more allied fighters have died this turn: Draw 2 cards.",
     "bio": "The club of the PLURRALs allows people to drown their sorrows away in pleasure.",
     "color": "Yellow",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -36861,7 +36861,7 @@
     "effect": "Attach to a target fighter.\nWhenever this fighter attacks: Give yourself an Element. Then, if you have 4 or more unique elements in your graveyard: Double this fighter's power.",
     "bio": "One half of the Phantom King's Mask, Wielded by [[Cielo de la Asad]]. The mask is said to cause its user to go into a berserk like state that leaves them blind to who they are.",
     "color": "Red",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -36958,7 +36958,7 @@
     "effect": "Whenever you cast your first, second, or third action each turn: Deal 200 damage to a target allied fighter. | Recur an Action from your graveyard, except it's Inert in all zones and Fading. Destroy it if it's not cast this turn.",
     "bio": "When dealing with possible events of irreversible catastrophe, there is no such thing as 'too much knowledge'.",
     "color": "Blue",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -36971,7 +36971,7 @@
     "effect": "Shuffle each player's hand together, then equally distribute that hand back to all players. Repeat this process for each player's deck and baseplate. Put two colourless studs into each player's Baseplate.",
     "bio": "With [[Javion|Javion's]] stability breaking down [[Beat The House|without]] its [[Rageborne Coffers|wealthy coffers]], [[Yueliang, World Calmer|Yuéliáng]] had only one option.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -37076,7 +37076,7 @@
     "effect": "Fading  |  Return all non-Nightmare fighters to their owner's hands.",
     "bio": "Stops even hope from escaping.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -37155,7 +37155,7 @@
     "effect": "At the start of your turns: Give yourself a fleeting Flaw. | Whenever an allied fighter dies: Attach a gear in your graveyard to this card. Then if there's 4 or more gear on this, destroy them all and summon a 600/600 Kilnkin Newt with no abilities.",
     "bio": "The magic forge of Imperium Ultima can create anything its owner wishes for, but is corrupted to always be inconveniently [[Flaw|flawed]].",
     "color": "Red",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -37168,7 +37168,7 @@
     "effect": "If a target enemy fighter has 350 or more health, divide it into seven copies of itself. You can't cast anything this turn.",
     "bio": "[[Azureless of the Federation|Azureless]] isn't one to negotiate with outsiders, but overwhelming wealth speaks louder. The [[10000 Stars|entrepreneur]] unsettles the conqueror.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -37203,7 +37203,7 @@
     "effect": "Cast this card ignoring its Colourless cost only if you've 'cast all other terrains from the World of Wood this game. | At the start of each player's turn: Unlock all allied fighters. They gain 100 Health and Power. Search your deck for 'The Wanwood Dryad.'",
     "bio": "It was these woods, warped by coil and stone, that [[Eisenhower, the Alchemist|Eisenhower]] was interested in. Such energy needed to keep them afloat! That power could be used for anything! Even...",
     "color": "Blue",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -37218,7 +37218,7 @@
     "effect": "Players may cast Common Ultra cards.",
     "bio": "The [[Paraselene (Playstyle)|Sages]] enclose the portal with grim determination. Whatever could emerge from this cannot be good.",
     "color": "Colourless",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -37252,7 +37252,7 @@
     "effect": "Whenever you cast your first card each turn, if your starting deck contains only Common or Uncommon cards: Give yourself a copy of it, except it's inert when discarded, Zombified and Fleeting.",
     "bio": "\"The Uncommonwealth seeks to preserve quality citizen life in the face of any and all strife by providing healthcare, rehousing, and financial aid. Regardless of location, time period or current history.\" -Mission Statement",
     "color": "Yellow",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -37283,7 +37283,7 @@
     "effect": "Whenever an allied fighter from the World of Wood dies: Draw a card.",
     "bio": "The centre of the World of Wood. In 2000 years, a [[Dwarvern Meteor|meteor]] will descend from the heavens, destroying wood as we know it. Maybe the temporal halo wasn't such a bad thing after all.",
     "color": "Blue",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -37368,7 +37368,7 @@
     "effect": "When this card is cast: A target allied fighter and its adjacent fighters gain 200 Health and Power. Whenever you cast a fighter: Search your deck for a copy of it.",
     "bio": "No sole person should wield the power of gods, especially not arrogant manchildren. The miracle of eons past taught this.",
     "color": "Yellow",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -37733,7 +37733,7 @@
     "effect": "Destroy the oldest card in your opponent's hand.",
     "bio": "The Alpha Wars led to famine. Famine led to despair. Despair fed the nightmares.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -37765,7 +37765,7 @@
     "effect": "Fading. Destroy all fighters and all non-Colourless cards in your Baseplate.",
     "bio": "The world is bored of war.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -37780,7 +37780,7 @@
     "effect": "Whenever you cast a Token: All allied fighters gain 100 power until their next end step.",
     "bio": "Thrillville is not responsible for any death or injuries on the premises. You have been warned.",
     "color": "Yellow",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -38099,7 +38099,7 @@
     "effect": "Cast only if you control two Titans. A target fighter gains 200 Power. Put this card into your Baseplate.",
     "bio": "The corruption of the Titans infused Robloxia's inhabitants with meekness and obedience.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Token"
   },
   {
@@ -38182,7 +38182,7 @@
     "effect": "Set a target fighter's stats to 500/500.",
     "bio": "If you look like a [[The Toothy Deer|toothy deer]], make sure to hide.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -38278,7 +38278,7 @@
     "effect": "Once each turn, whenever you attack: Unlock the attacking fighter.",
     "bio": "Live in conflict for too long and you'll soon become lost in bloodshed.",
     "color": "Red",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -38434,7 +38434,7 @@
     "effect": "Destroy all gears on all fighters and terrain. Summon a 100/100 Maladeity's Pustule.  | \nIt gains 100 Health and Power for each gear destroyed this way.",
     "bio": "[[The Tainted|Two]] [[Warriors of Justice|souls]] soaked in trauma used the Doomspire to cope, but they learnt they could use each other to heal.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -38447,7 +38447,7 @@
     "effect": "Lock a target allied fighter for 2 turns. It gains 100 power for each lock it has, but can't gain more than 500 Power this way.",
     "bio": "Can't wait? GO AHEAD! Unless you're taking turns with your annoying siblings.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -38611,7 +38611,7 @@
     "effect": "Cast this card using three Red studs if effects have made you lose life since your last end step. | Draw two cards.",
     "bio": "At the [[Alpha Brick's Destruction|Destruction]]'s agreement,&nbsp;<div style=\"display:inline-block\" class=\"advanced-tooltip\">'''each of the Four'''<div class=\"tooltip-contents\">[[File:Zanzel Repentant.png|100px]][[File:Eclipse, The Rage Gyre.png|100px]][[File:Eisenhower Reunited.png|100px]][[File:Hallow, Extortionist of Fun.png|100px]]</div></div> sought out one of the temporal aberrations, allying it with them if possible and destroying them otherwise. [[Eclipse, the Rage Gyre|Eclipse]] found nothing but ashes, scrap, and scale. [[Chromafex.mp4, The Meteor|Who]] did this...?",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -38783,7 +38783,7 @@
     "effect": "Put a Pixie's Mischief in your opponent's baseplate. If your opponent have 6 Pixie's Mischief in their baseplate: Transform all enemy fighters into snails and put 4 Pixie's Mischief on top of their deck. If not, put 2 additional Pixie's Mischief into their baseplate.",
     "bio": "The limits of the magic used by the pixies is still not fully understood, while transformation magic and conjuring of images is known as general examples of their powers, they continue to use their magic in new ways that leave even those who have studied them amazed and confused.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -38879,7 +38879,7 @@
     "effect": "Cast only if you control an aspect of Shedletsky. Turn your Shedletsky into its red form, The Raging Pulse. It gains 500 power. Effects can't destroy Shedletsky while in this form.",
     "bio": "A fiery chicken limb. Holding it fills your mind with thoughts of conquest.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -38941,7 +38941,7 @@
     "effect": "When this card is cast: Draw 2 cards. During your end step: All enemy fighters lose 100 power until their next end step.",
     "bio": "Test the limits of your imagination.",
     "color": "Blue",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -39077,7 +39077,7 @@
     "effect": "Cast only if there are 70 or more cards in your deck. Give yourself a copy of this card, then draw two cards. You can't cast actions this turn.",
     "bio": "Ultras share a hivemind that allow others to be summoned. When this hivemind reaches a critical mass, regions get torn asunder by the sheer pressure.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -39120,7 +39120,7 @@
     "effect": "Choose one:\n- A target allied fighter and its Soulmate each gain 200 Health and Power, then swap their stats.\n\n- Return a target allied fighter to the hand. Deal 200 damage to all fighters.\n\n- If you have 8 cards in your Baseplate, choose a target allied Vagabond. Summon its Soulmate.",
     "bio": "The deep bond between Vassal and Rageborne makes them share feelings, share memories, share their very understanding of the world.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -39289,7 +39289,7 @@
     "effect": "This turn, ignore the archetype restrictions on coloured cards.",
     "bio": "We are all of different skins. Different creeds. Different ideas. Yet, we all agree on one thing - A bunch of [[Anthrest (Group)|\"humans\"]] mucking up a [[Anthrested Tree|tree]] looks really disgusting, alright?",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -39303,7 +39303,7 @@
     "effect": "Obliterate a target allied fighter. X is the total stats of that fighter. A second target fighter gains half of X health and Power.",
     "bio": "''Come together as one, Ye Rageborne, and spread the keys to the Apotheosis of Man.''",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -39427,7 +39427,7 @@
     "effect": "Deal 6666 damage to a target fighter. Your opponent summons two apparitions of Lezus.",
     "bio": "[[Priestess Zanzel, the Promised One|Zanzel]] scoffed when she saw Lezus. These demons are why the world is impure.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Legendary"
   },
   {
@@ -39440,7 +39440,7 @@
     "effect": "Ban yourself.",
     "bio": "I'm sure no one will find a way to abuse this.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -39472,7 +39472,7 @@
     "effect": "When this card is cast, or at the start of each player's turn: Until the next endstep, all effects that would make a card gain or lose power do the opposite effect.",
     "bio": "<span style=\"color:#ff1919\">Each and every moment, there always is a timeline for worst scenario.",
     "color": "Blue",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -39576,7 +39576,7 @@
     "effect": "You gain 500 life. |  Give yourself Green Titanic Stud and Yellow Titanic Stud.",
     "bio": "\"Gosh, can't we all just, like, stop the fighting?\"",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -39589,7 +39589,7 @@
     "effect": "You gain 500 life. | Give yourself Blue Titanic Stud and Yellow Titanic Stud.",
     "bio": "Even the smallest insect can make a god bleed. I will never yield!",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -39602,7 +39602,7 @@
     "effect": "You gain 500 life. | Give yourself Red Titanic Stud and Yellow Titanic Stud.",
     "bio": "As Valkyries, it's our duty to pass on the power of the [[Titan (Group)|Titans]]. It's not easy.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -39615,7 +39615,7 @@
     "effect": "You gain 500 life. | Give yourself Red Titanic Stud and Blue Titanic Stud.",
     "bio": "The overwhelming power of the gods broke her spirit. Still, she will pass on what little power she has, no matter how futile it is.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {
@@ -39783,7 +39783,7 @@
     "effect": "Cast only if you control an aspect of Shedletsky. Turn your Shedletsky into its green form, Locus of Icons. He gains 500 health. Effects can't swap Shedletsky's stats while in this form.",
     "bio": "A succulent chicken limb. Unimaginable growth awaits those who know how to use it.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -40027,7 +40027,7 @@
     "effect": "Destroy a target allied fighter. Select an unranked fighter card in your deck that costs fewer total studs than that fighter and summon it, triggering effects as though it was cast.",
     "bio": "The [[Rageborne (Group)|Rageborne]] fed on every ounce of desire, but they were no wasteful. Every body, a home to keep.",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -40088,7 +40088,7 @@
     "effect": "A target fighter gains 1000 health.",
     "bio": "A somewhat rare variant of the [[Life Potion]] that is potent potion to keep fighters alive.",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -40995,7 +40995,7 @@
     "effect": "Deal 400 damage to all fighters. | Put a Cosmic Crack into your baseplate.",
     "bio": "N/A",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -41044,7 +41044,7 @@
     "effect": "Obliterate all enemy fighters and all copies of those fighters from all zones. | Obliterate your opponent's terrain, hand, and baseplate. | Put two Colourless Studs into their baseplate. They draw 5 cards.",
     "bio": "The end of everything marked the start of a new era. Again and again. When will the [[Dwarvern Meteor|Dwarven Meteor]] be stopped?",
     "color": "Red",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -41074,7 +41074,7 @@
     "effect": "Deal 150 damage to all fighters. They lose 150 power.",
     "bio": "You wouldn't really expect it but 1500 0.1-damage chicken legs lobbed at you HURTS.",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Uncommon"
   },
   {
@@ -41364,7 +41364,7 @@
     "effect": "Summon a 900/300 fighter with the following ability: Whenever you cast your first fighter each turn: Return it to your hand. Deal 100 damage to this card.",
     "bio": "Yoshiman!",
     "color": "Blue",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -41426,7 +41426,7 @@
     "effect": "Cast only if you control two Chairs. Return all Chair-related fighters to their owner's hands. Generate four colourless icons and draw two cards.",
     "bio": "The bygone era of racechairs, ready to breed the new generation.",
     "color": "Colourless",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -41741,7 +41741,7 @@
     "effect": "Draw a card. Put 7 Trapped Spirits into your opponent's Graveyard. Then if there's 21 or more cards in there, select a Yourei card in your deck and search it.",
     "bio": "\"Begone! Thou shalt not enter this valley!\"",
     "color": "Yellow",
-    "card_type": "Action",
+    "card_type": "Fighter",
     "rarity": "Epic"
   },
   {
@@ -41923,7 +41923,7 @@
     "effect": "Attach to a target fighter.  | \nWhenever this fighter attacks: Destroy your terrain. If you do, select a terrain card in your deck. Search that card.",
     "bio": "\"These tools were given to me by God before he disappeared. I can't fail him. I won't fail him.\" <br/>\n-[[Claymaker, Master Architect|Claymaker]]",
     "color": "Red",
-    "card_type": "Gear",
+    "card_type": "Fighter",
     "rarity": "Rare"
   },
   {
@@ -42929,7 +42929,7 @@
     "effect": "When this card is cast: Destroy a target enemy fighter with 350 or less power. Whenever a fighter dies, if you have two Yourei fighters in your Baseplate: Put a Trapped Spirit into your opponent's graveyard.",
     "bio": "Time for spirits, evil entities and alike to meet.",
     "color": "Green",
-    "card_type": "Terrain",
+    "card_type": "Fighter",
     "rarity": "Common"
   },
   {

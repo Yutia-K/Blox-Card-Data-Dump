@@ -10,7 +10,7 @@ for card in cards:
 
 cards_json = json.dumps(cards, ensure_ascii=False)
 
-html = r'''<!DOCTYPE html>
+html = '''<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -20,7 +20,6 @@ html = r'''<!DOCTYPE html>
 *{box-sizing:border-box;margin:0;padding:0}
 :root{--bg:#0a0e17;--card:#141b2d;--card-hover:#1a2340;--border:#1e2a45;--text:#c8d6e5;--text-bright:#fff;--accent:#4fc3f7;--blue:#4a90d9;--red:#e74c3c;--green:#27ae60;--yellow:#f1c40f;--colourless:#95a5a6}
 body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--text);min-height:100vh;padding:20px 30px}
-
 .controls{display:flex;flex-wrap:wrap;gap:10px;padding:15px 0;max-width:1400px;margin:0 auto}
 .controls input,.controls select{background:#1a2235;border:1px solid var(--border);color:var(--text);padding:8px 12px;border-radius:6px;font-size:0.9em;outline:none;transition:border .2s}
 .controls input:focus,.controls select:focus{border-color:var(--accent)}
@@ -39,7 +38,8 @@ body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(
 .rarity-Legendary{background:#4a3a1a;color:#f39c12}.rarity-Token{background:#2a2a2a;color:#7f8c8d}
 .rarity-Legacy{background:#3a2a1a;color:#e67e22}
 .type-tag{display:inline-block;padding:2px 6px;border-radius:3px;font-size:0.7em;font-weight:600;text-transform:uppercase;margin-left:4px;background:#1a2a3a;color:#5dade2}
-
+.card-link{color:#4fc3f7;cursor:pointer;text-decoration:underline;text-decoration-style:dotted;text-underline-offset:2px}
+.card-link:hover{color:#81d4fa;text-decoration-style:solid}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:12px;padding:15px 0;max-width:1400px;margin:0 auto}
 .card-grid{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:16px;cursor:pointer;transition:all .2s;position:relative;overflow:hidden}
 .card-grid:hover{background:var(--card-hover);border-color:var(--accent);transform:translateY(-2px);box-shadow:0 8px 25px rgba(0,0,0,.3)}
@@ -47,23 +47,19 @@ body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(
 .card-grid .card-name{color:var(--text-bright);font-weight:700;font-size:1.05em;flex:1}
 .card-grid .card-stats{display:flex;gap:12px;margin-bottom:10px;font-size:0.85em}
 .card-grid .stat{display:flex;align-items:center;gap:4px}
-.card-grid .stat-icon{font-size:1.1em}
 .card-grid .stat-val{color:var(--text-bright);font-weight:600}
 .card-grid .card-effect{font-size:0.82em;color:#8b9dc3;line-height:1.5;max-height:60px;overflow:hidden;text-overflow:ellipsis}
 .card-grid .card-bio{font-size:0.75em;color:#556677;font-style:italic;margin-top:8px;max-height:36px;overflow:hidden;text-overflow:ellipsis}
 .card-grid .card-meta{display:flex;gap:6px;margin-top:10px;flex-wrap:wrap;align-items:center}
-
 .table-wrap{padding:15px 0;overflow-x:auto;max-width:1400px;margin:0 auto}
 table{width:100%;border-collapse:collapse;font-size:0.85em}
 th{background:#0f1520;color:var(--accent);padding:10px 12px;text-align:left;cursor:pointer;white-space:nowrap;user-select:none;border-bottom:2px solid var(--accent)}
 th:hover{background:#1a2235}
 th .sort-arrow{margin-left:4px;font-size:0.8em;opacity:0.4}
-th.sorted .sort-arrow{opacity:1}
 td{padding:8px 12px;border-bottom:1px solid var(--border);vertical-align:top}
 tr:hover td{background:var(--card-hover)}
 .effect-cell{max-width:400px;font-size:0.8em;color:#8b9dc3;line-height:1.4}
 .bio-cell{max-width:250px;font-size:0.75em;color:#556677;font-style:italic}
-
 .modal-overlay{display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.7);z-index:200;justify-content:center;align-items:center;padding:20px}
 .modal-overlay.active{display:flex}
 .modal{background:var(--card);border:1px solid var(--border);border-radius:16px;max-width:600px;width:100%;max-height:90vh;overflow-y:auto;padding:30px;position:relative}
@@ -75,13 +71,11 @@ tr:hover td{background:var(--card-hover)}
 .modal .detail-value{color:var(--text-bright);font-weight:600}
 .modal .effect-box{background:#0f1520;padding:14px;border-radius:8px;margin-bottom:12px;line-height:1.6;font-size:0.9em}
 .modal .bio-box{color:#6b7c93;font-style:italic;font-size:0.85em;padding:10px 14px;background:#0a0e17;border-radius:8px}
-
 .result-count{padding:5px 0;font-size:0.85em;color:#6b7c93;max-width:1400px;margin:0 auto}
 .hidden{display:none!important}
 </style>
 </head>
 <body>
-
 <div class="controls">
 <input type="text" id="search" placeholder="Search cards by name, effect, bio..." autocomplete="off">
 <select id="filterColor"><option value="">All Colors</option>
@@ -104,194 +98,165 @@ tr:hover td{background:var(--card-hover)}
 <button class="btn" onclick="setView('table')">Table</button>
 </div>
 </div>
-
 <div id="resultCount" class="result-count"></div>
-
 <div id="gridView" class="grid"></div>
-
 <div id="tableView" class="table-wrap hidden">
 <table><thead><tr>
-<th onclick="sortTable('name')">Name <span class="sort-arrow">↕</span></th>
-<th onclick="sortTable('color')">Color <span class="sort-arrow">↕</span></th>
-<th onclick="sortTable('rarity')">Rarity <span class="sort-arrow">↕</span></th>
-<th onclick="sortTable('card_type')">Type <span class="sort-arrow">↕</span></th>
-<th onclick="sortTable('health')">HP <span class="sort-arrow">↕</span></th>
-<th onclick="sortTable('power')">Pow <span class="sort-arrow">↕</span></th>
-<th onclick="sortTable('cost_text')">Cost <span class="sort-arrow">↕</span></th>
+<th onclick="sortTable('name')">Name <span class="sort-arrow">&#8597;</span></th>
+<th onclick="sortTable('color')">Color <span class="sort-arrow">&#8597;</span></th>
+<th onclick="sortTable('rarity')">Rarity <span class="sort-arrow">&#8597;</span></th>
+<th onclick="sortTable('card_type')">Type <span class="sort-arrow">&#8597;</span></th>
+<th onclick="sortTable('health')">HP <span class="sort-arrow">&#8597;</span></th>
+<th onclick="sortTable('power')">Pow <span class="sort-arrow">&#8597;</span></th>
+<th onclick="sortTable('cost_text')">Cost <span class="sort-arrow">&#8597;</span></th>
 <th>Effect</th>
 <th>Bio</th>
 </tr></thead><tbody id="tableBody"></tbody></table>
 </div>
-
 <div class="modal-overlay" id="modal">
 <div class="modal">
-<button class="close" onclick="closeModal()">×</button>
+<button class="close" onclick="closeModal()">&#215;</button>
 <div id="modalContent"></div>
 </div>
 </div>
-
 <script>
-const CARDS = ''' + cards_json + r''';
-
+const CARDS = ''' + cards_json + ''';
 const rarityOrder = {Common:0,Uncommon:1,Rare:2,Epic:3,Legendary:4,Token:5,Legacy:6};
-let currentView = 'grid';
-let tableSortKey = 'name';
-let tableSortDir = 1;
+let currentView = "grid", tableSortKey = "name", tableSortDir = 1;
 
-function getTotalCost(card) {
-    if (!card.cost) return 0;
-    return Object.values(card.cost).reduce((a,b) => a+b, 0);
+// Build escaped name index (handles & -> &amp; etc)
+function esc(s){const d=document.createElement("div");d.textContent=s;return d.innerHTML;}
+const ESC_MAP = {};
+CARDS.forEach((c,i) => { ESC_MAP[esc(c.name)] = i; });
+const ESC_NAMES = Object.keys(ESC_MAP).sort((a,b) => b.length - a.length);
+const ESC_RE = new RegExp(ESC_NAMES.map(n => n.replace(/[.*+?^${}()|[\\]\\\\]/g,"\\\\$&")).join("|"), "gi");
+
+function linkEffect(text) {
+    if (!text) return "";
+    return esc(text).replace(ESC_RE, m => {
+        const i = ESC_MAP[m];
+        return i !== undefined ? '<span class="card-link" onclick="event.stopPropagation();showModal('+i+')">'+m+'</span>' : m;
+    });
 }
 
-function getCostDisplay(card) {
-    if (card.cost_text) return card.cost_text;
-    if (!card.cost) return '-';
-    return Object.entries(card.cost).map(([k,v]) => v+k[0]).join(' ');
-}
+function getTotalCost(c){return c.cost?Object.values(c.cost).reduce((a,b)=>a+b,0):0;}
+function getCostDisplay(c){if(c.cost_text)return c.cost_text;if(!c.cost)return"-";return Object.entries(c.cost).map(([k,v])=>v+k[0]).join(" ");}
 
 function filterCards() {
-    const search = document.getElementById('search').value.toLowerCase();
-    const color = document.getElementById('filterColor').value;
-    const rarity = document.getElementById('filterRarity').value;
-    const type = document.getElementById('filterType').value;
-
-    let filtered = CARDS.filter(c => {
-        if (color && c.color !== color) return false;
-        if (rarity && c.rarity !== rarity) return false;
-        if (type && c.card_type !== type) return false;
-        if (search) {
-            const hay = [c.name, c.effect, c.bio, c.rarity_text, c.cost_text].filter(Boolean).join(' ').toLowerCase();
-            return hay.includes(search);
-        }
+    const search=document.getElementById("search").value.toLowerCase();
+    const color=document.getElementById("filterColor").value;
+    const rarity=document.getElementById("filterRarity").value;
+    const type=document.getElementById("filterType").value;
+    let filtered=CARDS.filter(c=>{
+        if(color&&c.color!==color)return false;
+        if(rarity&&c.rarity!==rarity)return false;
+        if(type&&c.card_type!==type)return false;
+        if(search){const hay=[c.name,c.effect,c.bio,c.rarity_text,c.cost_text].filter(Boolean).join(" ").toLowerCase();return hay.includes(search);}
         return true;
     });
-
-    const sortVal = document.getElementById('sortBy').value;
-    filtered.sort((a, b) => {
-        if (sortVal === 'name') return a.name.localeCompare(b.name);
-        if (sortVal === 'health') return (b.health||0) - (a.health||0);
-        if (sortVal === 'power') return (b.power||0) - (a.power||0);
-        if (sortVal === 'cost_total') return getTotalCost(b) - getTotalCost(a);
-        if (sortVal === 'rarity') return (rarityOrder[b.rarity]||0) - (rarityOrder[a.rarity]||0);
-        if (sortVal === 'color') return (a.color||'').localeCompare(b.color||'');
+    const sv=document.getElementById("sortBy").value;
+    filtered.sort((a,b)=>{
+        if(sv==="name")return a.name.localeCompare(b.name);
+        if(sv==="health")return(b.health||0)-(a.health||0);
+        if(sv==="power")return(b.power||0)-(a.power||0);
+        if(sv==="cost_total")return getTotalCost(b)-getTotalCost(a);
+        if(sv==="rarity")return(rarityOrder[b.rarity]||0)-(rarityOrder[a.rarity]||0);
+        if(sv==="color")return(a.color||"").localeCompare(b.color||"");
         return 0;
     });
-
-    document.getElementById('resultCount').textContent = filtered.length + ' cards';
-    renderGrid(filtered);
-    renderTable(filtered);
+    document.getElementById("resultCount").textContent=filtered.length+" cards";
+    renderGrid(filtered);renderTable(filtered);
 }
 
 function renderGrid(cards) {
-    const g = document.getElementById('gridView');
-    g.innerHTML = cards.map((c, i) => {
-        const idx = CARDS.indexOf(c);
-        return `<div class="card-grid" onclick="showModal(${idx})">
-            <div class="card-header">
-                <div class="card-name">${esc(c.name)}</div>
-                <span class="rarity-tag rarity-${c.rarity||''}">${c.rarity||''}</span>
-            </div>
-            <div class="card-stats">
-                ${c.health != null ? `<div class="stat"><span class="stat-icon">&#10084;&#65039;</span><span class="stat-val">${c.health}</span></div>` : ''}
-                ${c.power != null ? `<div class="stat"><span class="stat-icon">&#9876;&#65039;</span><span class="stat-val">${c.power}</span></div>` : ''}
-                <div class="stat"><span class="stat-icon">&#128176;</span><span class="stat-val">${getCostDisplay(c)}</span></div>
-            </div>
-            ${c.effect ? `<div class="card-effect">${esc(c.effect)}</div>` : ''}
-            ${c.bio ? `<div class="card-bio">${esc(c.bio)}</div>` : ''}
-            <div class="card-meta">
-                <span class="color-dot color-${c.color||''}"></span><span style="font-size:0.8em">${c.color||'?'}</span>
-                <span class="type-tag">${c.card_type||''}</span>
-            </div>
-        </div>`;
-    }).join('');
+    document.getElementById("gridView").innerHTML=cards.map(c=>{
+        const i=CARDS.indexOf(c);
+        return '<div class="card-grid" onclick="showModal('+i+')">'+
+            '<div class="card-header"><div class="card-name">'+esc(c.name)+'</div>'+
+            '<span class="rarity-tag rarity-'+(c.rarity||"")+'">'+(c.rarity||"")+'</span></div>'+
+            '<div class="card-stats">'+
+            (c.health!=null?'<div class="stat"><span class="stat-val">'+c.health+' HP</span></div>':'')+
+            (c.power!=null?'<div class="stat"><span class="stat-val">'+c.power+' Pow</span></div>':'')+
+            '<div class="stat"><span class="stat-val">'+getCostDisplay(c)+'</span></div></div>'+
+            (c.effect?'<div class="card-effect">'+linkEffect(c.effect)+'</div>':'')+
+            (c.bio?'<div class="card-bio">'+esc(c.bio)+'</div>':'')+
+            '<div class="card-meta"><span class="color-dot color-'+(c.color||"")+'"></span>'+
+            '<span style="font-size:0.8em">'+(c.color||"?")+'</span>'+
+            '<span class="type-tag">'+(c.card_type||"")+'</span></div></div>';
+    }).join("");
 }
 
 function renderTable(cards) {
-    const tb = document.getElementById('tableBody');
-    tb.innerHTML = cards.map(c => {
-        const idx = CARDS.indexOf(c);
-        return `<tr onclick="showModal(${idx})" style="cursor:pointer">
-            <td><strong>${esc(c.name)}</strong></td>
-            <td><span class="color-dot color-${c.color||''}"></span>${c.color||''}</td>
-            <td><span class="rarity-tag rarity-${c.rarity||''}">${c.rarity||''}</span></td>
-            <td><span class="type-tag">${c.card_type||''}</span></td>
-            <td>${c.health!=null?c.health:'-'}</td>
-            <td>${c.power!=null?c.power:'-'}</td>
-            <td>${getCostDisplay(c)}</td>
-            <td class="effect-cell">${c.effect?esc(c.effect):''}</td>
-            <td class="bio-cell">${c.bio?esc(c.bio):''}</td>
-        </tr>`;
-    }).join('');
+    document.getElementById("tableBody").innerHTML=cards.map(c=>{
+        const i=CARDS.indexOf(c);
+        return '<tr onclick="showModal('+i+')" style="cursor:pointer">'+
+            '<td><strong>'+esc(c.name)+'</strong></td>'+
+            '<td><span class="color-dot color-'+(c.color||"")+'"></span>'+(c.color||"")+'</td>'+
+            '<td><span class="rarity-tag rarity-'+(c.rarity||"")+'">'+(c.rarity||"")+'</span></td>'+
+            '<td><span class="type-tag">'+(c.card_type||"")+'</span></td>'+
+            '<td>'+(c.health!=null?c.health:"-")+'</td>'+
+            '<td>'+(c.power!=null?c.power:"-")+'</td>'+
+            '<td>'+getCostDisplay(c)+'</td>'+
+            '<td class="effect-cell">'+(c.effect?linkEffect(c.effect):"")+'</td>'+
+            '<td class="bio-cell">'+(c.bio?esc(c.bio):"")+'</td></tr>';
+    }).join("");
 }
 
-function sortTable(key) {
-    if (tableSortKey === key) tableSortDir *= -1;
-    else { tableSortKey = key; tableSortDir = 1; }
-
-    const filtered = getFiltered();
-    filtered.sort((a, b) => {
-        let va = a[key], vb = b[key];
-        if (key === 'health' || key === 'power') return ((vb||0) - (va||0)) * tableSortDir;
-        if (key === 'rarity') return ((rarityOrder[vb]||0) - (rarityOrder[va]||0)) * tableSortDir;
-        return String(va||'').localeCompare(String(vb||'')) * tableSortDir;
+function sortTable(key){
+    if(tableSortKey===key)tableSortDir*=-1;else{tableSortKey=key;tableSortDir=1;}
+    const f=getFiltered();
+    f.sort((a,b)=>{
+        if(key==="health"||key==="power")return((b[key]||0)-(a[key]||0))*tableSortDir;
+        if(key==="rarity")return((rarityOrder[b.rarity]||0)-(rarityOrder[a.rarity]||0))*tableSortDir;
+        return String(a[key]||"").localeCompare(String(b[key]||""))*tableSortDir;
     });
-    renderTable(filtered);
+    renderTable(f);
 }
 
-function getFiltered() {
-    const search = document.getElementById('search').value.toLowerCase();
-    const color = document.getElementById('filterColor').value;
-    const rarity = document.getElementById('filterRarity').value;
-    const type = document.getElementById('filterType').value;
-    return CARDS.filter(c => {
-        if (color && c.color !== color) return false;
-        if (rarity && c.rarity !== rarity) return false;
-        if (type && c.card_type !== type) return false;
-        if (search) {
-            const hay = [c.name, c.effect, c.bio, c.rarity_text, c.cost_text].filter(Boolean).join(' ').toLowerCase();
-            return hay.includes(search);
-        }
+function getFiltered(){
+    const search=document.getElementById("search").value.toLowerCase();
+    const color=document.getElementById("filterColor").value;
+    const rarity=document.getElementById("filterRarity").value;
+    const type=document.getElementById("filterType").value;
+    return CARDS.filter(c=>{
+        if(color&&c.color!==color)return false;
+        if(rarity&&c.rarity!==rarity)return false;
+        if(type&&c.card_type!==type)return false;
+        if(search){return[c.name,c.effect,c.bio,c.rarity_text,c.cost_text].filter(Boolean).join(" ").toLowerCase().includes(search);}
         return true;
     });
 }
 
-function showModal(idx) {
-    const c = CARDS[idx];
-    let html = `<h2>${esc(c.name)}</h2><div class="detail-grid">`;
-    if (c.color) html += `<div class="detail-item"><div class="detail-label">Color</div><div class="detail-value"><span class="color-dot color-${c.color}"></span>${c.color}</div></div>`;
-    if (c.rarity) html += `<div class="detail-item"><div class="detail-label">Rarity</div><div class="detail-value"><span class="rarity-tag rarity-${c.rarity}">${c.rarity}</span></div></div>`;
-    if (c.card_type) html += `<div class="detail-item"><div class="detail-label">Type</div><div class="detail-value"><span class="type-tag">${c.card_type}</span></div></div>`;
-    if (c.cost_text) html += `<div class="detail-item"><div class="detail-label">Cost</div><div class="detail-value">${esc(c.cost_text)}</div></div>`;
-    if (c.health != null) html += `<div class="detail-item"><div class="detail-label">Health</div><div class="detail-value">${c.health}</div></div>`;
-    if (c.power != null) html += `<div class="detail-item"><div class="detail-label">Power</div><div class="detail-value">${c.power}</div></div>`;
-    html += `</div>`;
-    if (c.effect) html += `<div style="margin-bottom:12px"><div class="detail-label" style="margin-bottom:6px">Effect</div><div class="effect-box">${esc(c.effect).replace(/\|/g, '<br>')}</div></div>`;
-    if (c.bio) html += `<div><div class="detail-label" style="margin-bottom:6px">Bio</div><div class="bio-box">${esc(c.bio)}</div></div>`;
-    html += `<div style="margin-top:14px"><a href="https://blox-cards.fandom.com/wiki/${encodeURIComponent(c.name)}" target="_blank" style="color:var(--accent)">View on Wiki</a></div>`;
-    document.getElementById('modalContent').innerHTML = html;
-    document.getElementById('modal').classList.add('active');
+function showModal(idx){
+    const c=CARDS[idx];
+    let h='<h2>'+esc(c.name)+'</h2><div class="detail-grid">';
+    if(c.color)h+='<div class="detail-item"><div class="detail-label">Color</div><div class="detail-value"><span class="color-dot color-'+c.color+'"></span>'+c.color+'</div></div>';
+    if(c.rarity)h+='<div class="detail-item"><div class="detail-label">Rarity</div><div class="detail-value"><span class="rarity-tag rarity-'+c.rarity+'">'+c.rarity+'</span></div></div>';
+    if(c.card_type)h+='<div class="detail-item"><div class="detail-label">Type</div><div class="detail-value"><span class="type-tag">'+c.card_type+'</span></div></div>';
+    if(c.cost_text)h+='<div class="detail-item"><div class="detail-label">Cost</div><div class="detail-value">'+esc(c.cost_text)+'</div></div>';
+    if(c.health!=null)h+='<div class="detail-item"><div class="detail-label">Health</div><div class="detail-value">'+c.health+'</div></div>';
+    if(c.power!=null)h+='<div class="detail-item"><div class="detail-label">Power</div><div class="detail-value">'+c.power+'</div></div>';
+    h+='</div>';
+    if(c.effect)h+='<div style="margin-bottom:12px"><div class="detail-label" style="margin-bottom:6px">Effect</div><div class="effect-box">'+linkEffect(c.effect).replace(/\\|/g,"<br>")+'</div></div>';
+    if(c.bio)h+='<div><div class="detail-label" style="margin-bottom:6px">Bio</div><div class="bio-box">'+esc(c.bio)+'</div></div>';
+    h+='<div style="margin-top:14px"><a href="https://blox-cards.fandom.com/wiki/'+encodeURIComponent(c.name)+'" target="_blank" style="color:var(--accent)">View on Wiki</a></div>';
+    document.getElementById("modalContent").innerHTML=h;
+    document.getElementById("modal").classList.add("active");
 }
 
-function closeModal() { document.getElementById('modal').classList.remove('active'); }
-document.getElementById('modal').addEventListener('click', e => { if (e.target.id === 'modal') closeModal(); });
-document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+function closeModal(){document.getElementById("modal").classList.remove("active");}
+document.getElementById("modal").addEventListener("click",e=>{if(e.target.id==="modal")closeModal();});
+document.addEventListener("keydown",e=>{if(e.key==="Escape")closeModal();});
 
-function setView(v) {
-    currentView = v;
-    document.getElementById('gridView').classList.toggle('hidden', v !== 'grid');
-    document.getElementById('tableView').classList.toggle('hidden', v !== 'table');
-    document.querySelectorAll('.view-toggle .btn').forEach(b => b.classList.toggle('active', b.textContent.trim().toLowerCase() === v));
+function setView(v){
+    currentView=v;
+    document.getElementById("gridView").classList.toggle("hidden",v!=="grid");
+    document.getElementById("tableView").classList.toggle("hidden",v!=="table");
+    document.querySelectorAll(".view-toggle .btn").forEach(b=>b.classList.toggle("active",b.textContent.trim().toLowerCase()===v));
 }
 
-function esc(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
-
-let debounce;
-document.getElementById('search').addEventListener('input', () => { clearTimeout(debounce); debounce = setTimeout(filterCards, 200); });
-document.getElementById('filterColor').addEventListener('change', filterCards);
-document.getElementById('filterRarity').addEventListener('change', filterCards);
-document.getElementById('filterType').addEventListener('change', filterCards);
-document.getElementById('sortBy').addEventListener('change', filterCards);
-
+document.getElementById("search").addEventListener("input",()=>{clearTimeout(window._db);window._db=setTimeout(filterCards,200);});
+["filterColor","filterRarity","filterType","sortBy"].forEach(id=>document.getElementById(id).addEventListener("change",filterCards));
 filterCards();
 </script>
 </body>
@@ -299,5 +264,4 @@ filterCards();
 
 with open("blox_cards.html", "w", encoding="utf-8") as f:
     f.write(html)
-
 print(f"Done: {len(cards)} cards, {len(html)} bytes")
