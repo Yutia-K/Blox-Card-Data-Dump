@@ -1,0 +1,43 @@
+const ESC_RE = new RegExp(
+
+    ESC_NAMES.map(n => {
+
+        const e = escapeRe(n);
+
+        const pre = /^\w/.test(n) ? "\\b" : "";
+
+        const suf = /\w$/.test(n) ? "\\b" : "";
+
+        return pre + e + suf;
+
+    }).join("|"), "gi"
+
+);
+
+
+
+function linkEffect(text) {
+
+    if (!text) return "";
+
+    return esc(text).replace(ESC_RE, m => {
+
+        const i = ESC_MAP[m];
+
+        return i !== undefined ? '<span class="card-link" onclick="event.stopPropagation();showModal('+i+')">'+m+'</span>' : m;
+
+    });
+
+}
+
+
+
+function getTotalCost(c){return c.cost?Object.values(c.cost).reduce((a,b)=>a+b,0):0;}
+
+function getCostDisplay(c){if(c.cost_text)return c.cost_text;if(!c.cost)return"-";return Object.entries(c.cost).map(([k,v])=>v+k[0]).join(" ");}
+
+
+
+function filterCards() {
+
+    const search=do

@@ -1,12 +1,40 @@
-ESC_RE = new RegExp(ESC_NAMES.map(n => n.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")).join("|"), "gi");
+const COMBINED_RE = new RegExp(ALL_NAMES.map(n => makePattern(n)).join("|"), "gi");
 
 function linkEffect(text) {
     if (!text) return "";
-    return esc(text).replace(ESC_RE, m => {
-        const i = ESC_MAP[m];
-        return i !== undefined ? '<span class="card-link" onclick="event.stopPropagation();showModal('+i+')">'+m+'</span>' : m;
+    return esc(text).replace(COMBINED_RE, m => {
+        // Check if it's a group name (case-insensitive)
+        const lower = m.toLowerCase();
+        for (const g of GROUP_NAMES) {
+            if (g.toLowerCase() === lower) {
+                return '<span class="group-link" onclick="event.stopPropagation();filterByGroup(\''+g+'\')">'+m+'</span>';
+            }
+        }
+        // Otherwise check if it's a card name
+        const i = CARD_MAP[m];
+       
+
+function linkEffect(text) {
+    if (!text) return "";
+    return esc(text).replace(COMBINED_RE, m => {
+        // Check if it's a group name (case-insensitive)
+        const lower = m.toLowerCase();
+        for (const g of GROUP_NAMES) {
+            if (g.toLowerCase() === lower) {
+                return '<span class="group-link" onclick="event.stopPropagation();filterByGroup(\''+g+'\')">'+m+'</span>';
+            }
+        }
+        // Otherwise check if it's a card name
+        const i = CARD_MAP[m];
+        if (i !== undefined) {
+            return '<span class="card-link" onclick="event.stopPropagation();showModal('+i+')">'+m+'</span>';
+        }
+        return m;
     });
 }
 
-function getTotalCost(c){return c.cost?Object.values(c.cost).reduce((a,b)=>a+b,0):0;}
-function getCostDisplay(c){if(c.cost_text)return
+function filterByGroup(group) {
+    document.getElementById("filterGroup").value = group;
+    filterCards();
+}
+

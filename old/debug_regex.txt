@@ -1,0 +1,22 @@
+const ESC_RE = new RegExp(
+
+    ESC_NAMES.map(n => {
+
+        const e = escapeRe(n);
+
+function linkEffect(text) {
+
+    if (!text) return "";
+
+    return esc(text).replace(ESC_RE, m => {
+
+        const i = ESC_MAP[m];
+
+        return i !== undefined ? '<span class="card-link" onclick="event.stopPropagation();showModal('+i+')">'+m+'</span>' : m;
+
+    });
+
+}
+
+
+const BLACKLIST = new Set(["Babylon", "Baseplate", "Bee", "Bob", "Chair", "Cow", "Doge", "Dwarf", "Goo", "Hal", "Has", "Ice", "Justice", "K", "Mag", "Nightmare", "Ninja", "Overseer", "Oz", "Pier", "Police", "Rad", "Rage", "Stars", "Stud", "Studs", "Toy", "Void", "Zombie"]);

@@ -1,0 +1,9 @@
+function makePattern(name) {
+    const e = escapeRe(name);
+    const pre = /^\w/.test(name) ? "\\b" : "";
+    const suf = /\w$/.test(name) ? "\\b" : "";
+    return pre + e + suf;
+}
+
+// Combined regex - groups and cards together
+const ALL_NAMES = [...new Set([...GROUP_SORTED, ...CARD_SORTED])].sort((
