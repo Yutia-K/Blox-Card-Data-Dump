@@ -1,0 +1,576 @@
+BLOX CARDS - RULES REFERENCE
+==================================================
+
+## How to Play
+
+This page tells you how to play Blox Cards. If there's something you can't find in this guide, try looking in the other guides. If this article isn't as detailed as you'd like, you are advised to watch TSL Studios' guide on YouTube [https://www.youtube.com/playlist?list=PLreBfWt9fnf3tKVTbxMWxOsSVKF2dnR0G here]. If you're in a hurry, there's shorter summaries of the contents in the 6th and 7th videos in the playlist. An updated guide is [https://www.youtube.com/watch?v=-cTPIz5zi4Y here].
+== Starting a battle ==
+
+To battle, open the Main Menu then click the green Play button. You can challenge other users to battle by clicking the "CHALLENGE" button. If they accept, then the battle will begin. But if you are the one being challenged, you can either accept or decline their challenge. Their challenge will always go to the top of the list. Furthermore, you can watch other users' battles by clicking the "SPECTATE" button to the right of the battle status. If you click on the "Battling [enemy name here]," it'll give you a quick summary of what the match looks like at that point in time. There are bots scattered around the map, they mostly give BloxBux and cards as rewards, Their locations can be found in the List of AI page.
+== Cards ==
+Cards come in 5 colors:
+* Colourless (Also known as White or Neutral)
+* Red
+* Green
+* Blue
+* Yellow
+The card's color is seen in the background of its art or the card's border.
+
+A card can be also be of one of 6 rarities:
+* Common
+* Uncommon
+* Rare
+* Epic
+* Legendary
+* Token
+A card's rarity determines how many of it you can have in your deck at one time, Common being 4 cards, Uncommon 3 cards, Rare being 2 cards and both Epic and Legendary being 1 card. You cannot add Tokens to your deck.
+
+There are 3 types of cards: Fighters, Actions, and Terrains. Fighter cards have Health and Power, and most have some form of effect. Action trigger their effect and are then removed from play. Some actions give a copy of themselves to you or to your opponent after being used, examples being Roblox Gift Card and Living World. Terrain cards are like action cards except they remain in play and can have additional effects until they are removed or another terrain card takes their place. Terrain cards can also be made into Fighters via an effect.
+== Health and Power ==
+Cards have health (green) and power (orange). When a card's health runs out, it dies. When a card attacks another, two things happen:
+* The attacking card damages the attacked card's health equal to the attacking card's power.
+* The attacked card counterattacks, dealing damage equal to its own power to the attacking card's health.
+If a card with 500 health and 500 power were to attack another with 600 health and 300 power, the first card would be left with 200 health and the second with 100.
+== Studs and Cost ==
+Every card costs a certain amount of Studs. The cost of a card is shown as a row of circles. Studs are colored, much like cards. The game does not consider Colourless to be a color. You pay Studs to cast a card. There are four ways to gain Studs. The first way is to have cards on your field, where they will generate a Stud of their color every time your turn ends, if they are not inert in play. If you were to have 3 Red and 2 Yellow cards on your field, you would get 3 Red and 2 Yellow Studs at the end of your turn. The second way is to have cards in your Baseplate. At the end of your turn, you gain 2 free Colourless studs and your colored studs are set to the number of cards in your Baseplate of their respective color, and your field generates. The third way is to discard a card in your hand by swiping it downwards (for mobile) or right-clicking it (for PC) (The first non-Colourless, non-inert-when-discarded card you discard each turn puts that card into the Baseplate). The fourth way is to trigger a card's effect that gives Studs.
+== Locks ==
+
+Locked cards cannot attack. A card will be locked for one turn (or two turns on the first turn of the battle) when it is played, unless it has the Haste passive effect. The number on the lock tells you how many turns the card will remain locked. Locked cards lose one lock at the end of every turn after the first turn of the battle.
+== Attacking ==
+Only unlocked cards can attack. To attack, click an unlocked card on your field, then click a card on your enemy's field. Some cards cannot attack, such as StayBlue.
+== Winning ==
+To win, you must deplete your opponent's Life to 0. There's many ways to do this, but the most common one is attacking your opponent's face card. Your opponent has a face card, which is revealed when they have no fighters on their field. Attacking this face card will deplete their Life. When your opponent has no cards in their deck, they will take 'fatigue' damage at the start of their turns. Certain card effects can increase or decrease your opponent's Life.
+== Buying cards ==
+Cards are bought in packs from the Card Shops, which are found in the Main Menu and in the world. Each pack holds different kinds of cards. Packs cost BloxBux, a currency you can earn by battling (both winning and losing) and by codes. You can scroll through the packs using your scroll wheel (for PC) or swiping left and right (on mobile). To open a pack, click on the pack.
+== The deck builder ==
+Your collection is on the left, your deck is on the right. Save a deck by quitting the deck builder. You can switch deck slots by clicking the deck slot switched in the bottom bar (this will discard your edits to your current deck). You can only exit the deck builder with a 40 card deck. Scroll through your collection by swiping left and right, pressing A and D, left or right clicking the screen, or using your scroll wheel. Left-click cards in your collection to add them to your deck, right-click them to remove them from your deck. Left-click cards in your deck to remove them from your deck, right-click cards in your deck to add more of them to your deck. Click the colors to exclude or include them from your view. Use the search bar to search for names, descriptions, effect descriptions, and triggers, archetypes, and more. Use the zoom slider to adjust how many cards are visible in your collection.
+== Sleeves ==
+
+Sleeves are cosmetic 'card backs' you can purchase for your cards. They look neat, but that's all they do.
+== Levels and stats ==
+Your level and rank are shown in the Main Menu. Click the Ranks & Stats button to change your rank or look at your stats.
+== Trade ==
+
+To trade, you will need to reach level 10 and play on a registered Roblox account. Up top are your offers, below are the other user's. The controls for adding and removing cards are identical to the normal deck builder. When you're ready, check the Ready box, then click Complete Trade.
+== Auctions and Art cards ==
+
+Auctions are automatic timed events where an Epic or Legendary card is sold for BloxBux. Art cards are alternative arts of already existing cards, Those can be obtained in event packs, Innovative and the Art Box.
+
+## Battle
+
+Battles are one of the most important aspects of Blox Cards, they are the main part of the Experience.
+== Starting a battle ==
+
+=== Queue battle ===
+The queue feature has recently been added back to the Experience after its removal several years ago. Users had to battle in the random queue to earn Necroenzyme. To do so, activate the "Enter Queue" button and then wait for a battle to start.
+=== Standard battle ===
+To start a standard battle, first you need to activate the "Play" button. Then, activate the "CHALLENGE" Button for who you want to battle. If the person declines the battle request, the battle does not start. If the person accepts, the battle starts.
+
+You can also get requests from other Users, when that happens, just activate the "ACCEPT" button to start a battle or activate the "DECLINE" button to not.
+
+== In battle ==
+=== At the start of a battle ===
+When a battle starts, both players have six cards in their hand (as their "opening hand) from their deck and both players will have 4000 Life. The player who goes first will have four Colourless Studs and will have the ability to summon cards before the opponent. On the other hand, the other player will have six Colourless Studs.
+
+Both players can only have a maximum of eight fighters on their own field.
+=== Battle aspects ===
+The main aspect of a battle is the cards. A card is something that affects the battle. There are three types of cards
+# Fighters are cards which have a set health and power. Sometimes, but not always, the card will have an effect. When they are summoned, they enter in the field locked for 1 turn (unless specified otherwise). Some fighters also generate Studs as well, depending on the color of the card.
+# Actions are cards that do not have a set health and power, unlike fighters. Actions are required to have an effect. When cast, a text label will appear at the lower half of the screen, with the action card's art and the effect.
+# Terrains are cards that last throughout the whole battle unless removed or replaced and do not have a set health or power. Terrains have many possible effects.
+
+FuryBlocks Luna.png|link=FuryBlocks|An example of a fighter. FuryBlocks is a blue uncommon fighter, with 400 health and 200 power and Dextrous, which lets it attack twice per turn. It generates blue Studs.
+Stud Luna.png|link=Stud|An example of an action. When you cast this, it puts a Colourless Stud into your Baseplate.
+BFactory.png|link=Bread Factory|An example of a terrain. When you cast this, it gives a recurring effect where all fighters get unlocked at the start of each turn.
+
+=== Combat ===
+Combat is a fight that happens between fighters or between a fighter and a player. To make combat happen, the player that controls a card on their turn needs to click on it and then click on another fighter or on the enemy face.
+
+In combat, generally a fighter inflicts damage to the other fighter/player, making its health/Life decrease based on its Power. If a fighter is attacking a fighter, the fighter that got attacked counterattacks. This means that it deals damage back to the attacking fighter based on its own power. When a fighter reaches zero health, it dies, removing itself from the field.
+== Music ==
+For music, see this old list of battle music and this new list of battle music.
+
+## Effect Powers
+
+'Effect Powers', known as 'Powers' in the code, are how card effects are specified, and how they impact the battle. A card can have multiple effect powers as their effect, creating complex effects (for example, Orinthian Force: Secret Guard). Currently though, the game only offers a handful amount of effect powers, so the developers have to be creative with their effects.
+
+This page is for the people who want to know or understand what effect powers are available.
+
+Effects also have 'Names' in the code, which were used to add flavor to cards. For example, Aife's effect name is "Power Up" (the card used to buff a target fighter) and the game would display "Select a target for Power Up!" or "Select a card for Aife's Power Up!" The game no longer displays these names, so many new cards have the effect name copied from some other card.
+
+Please see the Trigger page to see how triggers work, and how they are activated.
+
+== Targets ==
+Not to be confused with the targeting mechanic. Not all targets work with every trigger and every effect power. For example, having an OnEnd trigger (triggers at the end of your turns) and a single target.
+
+'Targets' specify who is being affected by the card's effect power.
+* 'Aggressor:' The effect power will be applied to the opposing fighter, or the fighter that triggered its effect.
+* 'All:' The effect power will be applied to all fighters.
+* 'AlliedArchetype:' The effect power will be applied to the card's corresponding archetype, for allied fighters only. This can only work when said card is in an archetype.
+* 'Ally:' The effect power will be applied to your side of the board. This may include your allied fighters, your Studs, your Life, your Hand, or your deck.
+* 'AllyHand:' The effect power will be applied to cards in your Hand.
+* 'AllyHandToken:' The effect power will be applied to Tokens in your Hand.
+* 'Archetype:' The effect power will be applied to the card's corresponding archetype. This can only work when said card is in an archetype.
+* 'BlessedAllyHand:' The effect power will be applied to Blessed cards in your Hand.
+* 'Color(Neutral/Red/Green/Blue/Yellow):' The effect power will be only applied towards fighters based on the specified color.
+* 'NotArchetype:' The effect power will be applied towards all fighters who aren't in the card's corresponding archetype. This can only work when said card is in an archetype.
+* 'NotColor(Neutral/Red/Green/Blue/Yellow):' The effect power will be only applied towards fighters that are not the specified color.
+* 'Opponent:' The effect power will be applied to the opponent's board. This may include the opponent's fighters, the opponent's Studs, the opponent's Life, the opponent's Hand, or the opponent's deck.
+* 'RandomNotBlessedAllyHand:' The effect power will be applied to a non-Blessed card in your Hand.
+* 'Self:' The effect power will be applied to the fighter itself.
+* 'Single:' Also known as targeting. The effect power will be applied towards one specified fighter alive on the board.
+==  Effect Powers ==
+The effect powers are how they impact the battle. Here is a categorized list below.
+=== Effect Powers Towards Fighters ===
+These effect powers target towards fighters.
+* 'Assign:' Assigns damage of your own health, target's half health rounded down, random (50 - 1000) or double your own power during an attack.
+* 'Check:' Checks their target's health or power and destroys them if they are over or below a stated number in the effect.
+* 'Damage:' Their targets lose x Health.
+* 'Destroy:' Their targets are destroyed.
+* 'Generate:' Their targets generate.
+* 'GivePassive:' Their targets get a passive.
+* 'Heal:' Their targets gain x Health.
+* 'Lock:' Their targets are locked for x turns. Locking makes a fighter unable to attack for a set amount of turns.
+* 'Obliterate:' Their targets are obliterated.
+* 'PierceDamage:' Their targets lose x Health. Ignores DamageImmune.
+* 'Return:' Their targets are returned to the owner's hand.
+* 'SetHealth:' Their targets' health are set to x.
+* 'SetPower:' Their targets' power are set to x.
+* 'Swap:' Their targets' health and power values are swapped, or switched.
+* 'Strengthen:' Their targets gain x Power.
+* 'Transform:' Their targets are transformed.
+* 'Weaken:' Their targets lose x Power.
+* 'Unlock:' Their targets lose x turns on their lock.
+** If x=9999, then it is considered an "unlock" in the effect's description.
+** If x=1, then it is considered as "ready" in the effect's description.
+=== Effect Powers Towards Players ===
+These effect powers target towards either you, or the opponent. This includes Life, Studs, the Hand, and the deck. This means only "Ally" or "Opponent" targets work for these effect powers.
+* 'Add:' You or the opponent puts a specified card into their Hand.
+* 'AddGenZone:' Add cards to your Baseplate.
+* 'AddHandModifier:' You puts a specified Blessing into your Hand.
+* 'Anthrest:' Advance your Anthrestation.
+* 'Ban:' The target player loses x Life. If that player loses from this effect, they go to Hell.
+* 'Cost:' You lose x Life.
+** If x is a negative, then you "gain" Life.
+* 'DeckAdd:' You or the opponent puts a specified card into their deck.
+* 'Draw:' You or the opponent draws an x amount of cards from their deck.
+* 'GenZoneDiscard:' Discard cards from your Baseplate.
+* 'Inflict:' Your opponent loses x Life.
+** If x is a negative, then your opponent "gains" Life.
+* 'Neutral/Red/Green/Blue/Yellow:' You or the opponent gains x amount of a specified Stud.
+** If x is a negative, then you lose x amount of a specified Stud.
+* 'ReplaceColor:' Change the color of cards.
+* 'Return:' Put a fighter in play into its owner's hand.
+* 'RevealHand:' Your opponent has their hand revealed.
+** Note: Revealing your own hand can't be done, apparently.
+* 'Set(Neutral/Red/Green/Blue/Yellow):' You or the opponent has a specific Stud type set to x.
+* 'SetLife:' You or the opponent has their Life set to x.
+* 'SpecificDiscard: 'Discard specific cards.
+* 'Summon:' You or the opponent summons a specified card.
+* 'SummonWithEffect:' You or the opponent summons a specified card and triggers the OnSummon effect.
+* 'Tax:' This turn, cards the target player places will cost x more Colourless Studs. If x is negative, then the cards cost less.
+==== RandomSummon and RandomAdd ====
+These get their own subcategory in this subcategory due to how complex they are.
+* 'RandomSummon:' You or the opponent summons a random card.
+* 'RandomSummonWithEffect:' You or the opponent summons a random card, and the game triggers its effect as if it was summoned from hand.
+* 'RandomAdd:' You or the opponent puts a random card into their hand.
+These are the abilities they can use for RandomSummon and RandomAdd. Take note that with RandomSummon, the code limits itself to summoning cards with a health value higher than 0 to avoid summoning actions or terrain cards.
+* Any: Any card could be summoned or added.
+* (Neutral/Red/Green/Blue/Yellow): Any card within that color could be summoned or added.
+* (Common/Uncommon/Rare/Epic/Legendary): Any card within that rarity could be summoned or added.
+* (Neutral/Red/Green/Blue/Yellow)(Common/Uncommon/Rare/Epic/Legendary): Any card within that color AND within that rarity could be summoned or added.
+* (Archetype): Any card within that archetype could be summoned or added.
+* (Set): Any specified card within said set could be summoned or added. For example, if the set were to be towards Blockerwiz, FuryBlocks, Latchie, and Oozlebachr, then it'll randomly select a card out of that set. In this case, it will randomly select either Blockerwiz, FuryBlocks, Latchie, or Oozlebachr.
+=== Miscellaneous ===
+Effect powers that cannot be applied to the categories above.
+* 'AlterEV:' Alters effect variables. This can do many different things.
+* 'BloxgoneMonster:' Used for The Bloxgone Monster's effect.
+* 'EndTurn:' Ends the turn.
+* 'Splexify:' Used for DragerTerrain's effect.
+== Composite Effects ==
+'Composite Effects 'are effect ideas that can be produced via using multiple effect powers. Composite Effects create the illusion of a certain effect that cannot be usually be produced with just one effect power.
+
+Below is an example of these psuedo-effects.
+* Transform into x .
+** Summon x -> Damage 9999 to self
+== Double Trigger/Composite Triggering ==
+Normally, it is impossible for a card to have two triggers (or to double trigger.) However, a 'Double Trigger,' better known as a 'Composite Trigger', is a special kind of composite effect that enables a card to have two triggers by exploiting tokens. A composite trigger does an effect on play, then immediately destroys itself and creates a token.
+
+'The first trigger on a fighter with a composite trigger MUST be OnSummon.'
+
+The first card with a composite trigger was InceptionTime. The following is a list of different types of composite triggers:
+* 'Composite/Vanilla/Normal:' Any card with an effect OnSummon and another effect. Cards such as Zanzel Repentant.
+* 'Action Composite:' Found on cards such as SnyFort and Has. Used either to help Lunar decks or to prevent return spam combos.
+* 'Charges': Each "charge" in a card is simply a Token with a different charge.
+** 'Set Charges:' Cards such as pa00 do their effect a limited number of times, and then stop.
+** 'Cyclical Charges:' Cards such as Exotic Murtic that does an effect every certain amount of turns, represented by charges.
+* 'Levels:' These charges tick upwards before ending, such as Revelling Satyr and RangeMeludE. Usually not referred to as charge.
+* 'Misc: 'Lezus has six different forms, each using composite trigger technology to switch. Shedletsky, the Fried One is a complex soup of cards and composite triggers. 
+
+## Passives
+
+'Passives' are properties of cards that are kept active throughout the game as long as the card with the property is still alive.
+
+Passives are not effects. A card can have multiple passives on top of an effect.
+
+For more information on triggers, see Trigger. For more information on terms used, see Terminology and Concepts.
+
+Not to be confused with Passive Gears.
+== Boolean passives ==
+=== AddBlock ===
+
+Cards with 'AddBlock' cannot be Added.
+----
+=== AnimateImmune ===
+
+(DragerTerrain)
+
+Terrains with 'AnimateImmune' cannot be animated.
+----
+=== AttackBlock ===
+
+Fighters with 'AttackBlock' cannot attack.
+----
+=== BypassImmune ===
+
+(Domain Terrain)
+----
+=== Charge (Haste) ===
+
+Fighters with 'Charge' don't gain a lock naturally when cast into the board. 'Charge!!!' is displayed.
+----
+=== CheckImmune ===
+
+Fighters with 'CheckImmune' are immune to Check, a removed effect power.
+----
+=== CloneImmune ===
+
+Fighters with 'CloneImmune' cannot be cloned.
+----
+=== CopyDeckImmune ===
+
+----
+=== CopyImmune ===
+
+Fighters with 'CopyImmune' are immune to effect copying card effects.
+----
+=== CounterAttackBlock ===
+
+Fighters with 'CounterAttackBlock' cannot be countered when they attack.
+----
+=== CounterBlock ===
+
+Fighters with 'CounterBlock' cannot counter when they get attacked.
+----
+=== DamageImmune ===
+
+Fighters with 'DamageImmune' cannot have their health lowered by any non-combat means.
+----
+=== DestroyImmune ===
+
+Cards with 'DestroyImmune' cannot be destroyed.
+----
+=== Decaying ===
+
+Cards with 'Decaying' take 200 damage during their endsteps (if it has Moonward it's reduced to 100).
+----
+=== Defender ===
+
+Cards with 'Defender' must be defeated before you can attack fighters without 'Defender'.
+----
+=== Dextrous ===
+
+Cards with 'Dextrous' are not locked when they do their first attack each turn, meaning that they can attack twice.
+----
+=== DiscardBlock ===
+
+Cards with 'DiscardBlock' cannot be discarded.
+----
+=== DiscardToken (Inert when discarded) ===
+See 'TokenDiscard'
+----
+=== DivdeImmune ===
+
+(Ghashendex AI Phase2)
+
+Fighters with 'DivdeImmune' cannot be divided. Only this card has this typo.
+----
+=== DivideImmune ===
+
+(Traumatic Clown)
+
+Fighters with 'DivideImmune' cannot be divided.
+----
+=== Drafted ===
+
+During your end step, if this card is in your graveyard and you have no cards in your hand: Recur it. 
+
+No cards inherently have this passive and are only given it by being selected by Resistance's Draft mechanic.
+----
+=== Dominant===
+
+Fighters with 'Dominant' are red and gains 200 power when cast.
+----
+=== FaceBlock ===
+
+Fighters with 'FaceBlock' can attack enemy fighters, but not the opponent.
+----
+=== Fading ===
+
+Cards with 'Fading' do not trigger death effects when dying, and don't go to the graveyard.
+----
+=== Fleeting ===
+
+Cards with 'Fleeting' are destroyed from your hand at the end of your turn.
+----
+=== Gladiator ===
+
+(HighlanderR)
+
+Cards with 'Gladiator' can only be cast if your starting deck had 2 or fewer Gladiators and no Duplicates. They also search your deck for a Gladiator whenever their effect triggers.
+----
+=== Haste ===
+
+Fighters with 'Haste' aren't locked upon being cast. Meaning that they can attack immediately.
+----
+
+=== HealImmune ===
+
+(Traumatic Clown)
+
+Fighters with 'HealImmune' cannot have their health raised.
+----
+=== HideArchetype ===
+
+Cards with 'HideArchetype' have their archetype hidden in the inspection window.
+----
+=== IsBotCard ===
+
+Cards with 'IsBotCard' are bot cards.
+----
+=== Liberate ===
+
+Cards with 'Liberate' can be recast from the graveyard whenever you attack and destroy your first fighter each turn. Liberated cards gain Fading.
+----
+=== LockImmune ===
+
+(TtarProject)
+
+Fighters with 'LockImmune' cannot be locked by effects.
+----
+===Marked===
+
+Cards with Marks take 100 extra damage from combat and effects.
+----
+=== Moonward ===
+
+If an effect were to damage a card with 'Moonward', it gets canceled and instead the card takes 100 damage.
+----
+=== MoveGenZoneImmune ===
+
+(BlobgottenBot)
+
+Fighters with 'MoveGenZoneImmune' cannot be moved to the Baseplate by effects.
+----
+=== ObliterateImmune ===
+
+(Ghashendex AI Shield)
+
+Fighters with 'ObliterateImmune' cannot be obliterated.
+----
+=== OmniImmune ===
+
+Fighters with 'OmniImmune' are immune to all card effects (except Obliterate)
+----
+=== Overload ===
+
+Fighters with 'Overload' deal excess damage to the opponent (as effect damage).
+----
+===Prosperous=== 
+ 
+
+Cards with 'Prosperous' are green and gain 200 Health when cast. 
+---- 
+===Perceptive=== 
+ 
+
+Cards with 'Perceptive' are blue and search for a stagnant card when cast. 
+----
+===Rageborne===
+
+Discard three cards with a 'Rageborne' in play to enter rage. For each Rage stack, your first attack with a Rageborne fighter each turn deals an extra 200 damage. You lose all your Rage Stacks if you didn't enter rage in a turn.
+----
+===RandomAddBlock===
+
+Cards with 'RandomAddBlock' cannot be RandomAdded.
+----
+===Regenerating===
+
+Fighters with Regenerating gain 100 health during their owner's end step.
+----
+
+===ReturnImmune===
+
+Fighters with 'ReturnImmune' cannot be returned.
+----
+===SeanceImmune (Legacy)===
+
+Cards with 'SeanceImmune' cannot be seanced.
+(This passive has been removed from the game.)
+----
+
+===SetImmune===
+
+Fighters with 'SetImmune' cannot have its stats be set, or reset.
+----
+===Shield (Defender)===
+
+Fighters with 'Shield' must be attacked before any other fighters. 
+
+Note that if there is more than one fighter with Shield on a player's board, the opposing player can choose between any of them to attack.
+----
+===Smuggled===
+
+Fighters that are smuggled become inert in all zones and have their Red and Green stud costs replaced by Blue and Yellow (Red becomes Blue and Green becomes Yellow.)
+----
+===StarterCard===
+
+Cards with 'StarterCard' have a higher chance to be in your hand at the start.
+
+Note that 'StarterCard' isn't shown in a card's description, and applies to all colored fighters that have a Colourless cost between 1-4 C.
+----
+===StealImmune===
+
+Fighters with 'StealImmune' cannot be stolen.
+----
+===Stealth===
+
+Fighters with 'Stealth' do not trigger effects when cast. Also applies to some actions.
+----
+===Sociable=== 
+ 
+
+Cards with 'Sociable' are yellow and gives you a colourless stud when cast. 
+----
+===Stormless===
+
+Cards with 'Stormless' do not trigger effects when cast and doesn't count as an action. (This is not just stealth because stormless doesn't trigger effects based on how many cards you have cast this turn)
+
+Note that 'Stormless' isn't shown in a card's description, and only action cards can have this passive.
+----
+===StrengthenImmune===
+
+Fighters with 'StrengthenImmune' cannot have their power raised.
+----
+=== Super Dextrous===
+
+The card can attack up to three times per turn.
+----
+===SuspendImmune===
+
+Fighters with 'SuspendImmune' cannot be suspended.
+----
+===SwapImmune===
+
+Fighters with 'SwapImmune' cannot have their health and power swapped.
+----
+===TargetImmune===
+
+(Plushie Dino)
+
+Fighters with 'TargetImmune' cannot be targeted.
+----
+===Terrified===
+
+Fighters with Terrified are obliterated during their owner's end step (Terrified can only be given by other cards to a fighter).
+----
+
+=== Token (Inert in play)===
+
+Fighters with 'Token' cannot generate Studs in play naturally or from effects.
+----
+===TokenDiscard (Inert when discarded)===
+
+Cards with 'TokenDiscard' cannot generate Studs when discarded.
+----
+===TokenGenZone (Inert in baseplate)===
+
+Cards with 'TokenGenZone' cannot generate Studs in the Baseplate.
+----
+===TokenOmni (Inert in all zones)===
+
+(Forestfire Butterflies)
+
+Cards with 'TokenOmni' cannot generate Studs anywhere.
+----
+===TransformImmune===
+
+Fighters with 'TransformImmune' cannot be transformed.
+----
+===Unique===
+
+Cards with 'Unique' can only have 1 copy on the board.
+
+Note that actions with 'Unique' also can't be cast when there's a 'Unique' fighter on the board.
+----
+===UniqueInGraveyard===
+
+Cards that are Unique in Graveyard will have the effect of obliterating themselves in their graveyard during end step until there is only 1 copy of the card in that zone.
+----
+===UnlockImmune===
+
+(TtarProject)
+
+Fighters with 'UnlockImmune' cannot be unlocked with effects.
+----
+===Unstoppable===
+
+Cards with 'Unstoppable' can attack their opponent directly, even with fighters in play.
+----
+===WeakenImmune===
+
+Fighters with 'WeakenImmune' cannot have their power lowered.
+----
+===Zombified===
+
+'Zombified' fighters are obliterated when they leave play for any reason. They still trigger effects, since they are obliterated after they get sent to the zone.
+
+==String passives==
+;ReplaceDescriptionant
+:Used for cards that replace their own description.
+;Zeitgeistant
+:Zeitgeist override.
+
+## Lock
+
+Lock is a condition that can effect cards via fighter effects, action cards, or from a card attacking on its turn. The card will appear to have a padlock on it once affected, and cannot be selected to attack. It can still counter-attack if another card the foe has attacks it, though. Most fighters enter play locked; sometimes locked even more than 1 turn.
+
+Blue cards are the most well-known user of locking effects, although there are cards in other colors that can inflict it as well.
+== Negating Lock ==
+Lock is automatically lifted once the number of turns has passed.
+
+Negating a card's lock without having to go through the turns is called "Unlock". Certain cards, such as AVote, 1dev3 and Typheus the Whelp can unlock fighters, potentially allowing them to attack multiple times a turn.
+
+"Ready" also negates a card's lock. However, the "Ready" lowers the fighters' lock duration by 1 turn. Using "Ready" will not affect who are locked for more than one turn. However, an effect can "Ready" multiple times. An example of a card using "Ready" is PoptartNoahh.
+
+There are also effects refered to as "thaw", which involves partially or completely removing a lock, then locking them for 1 turn to prevent them from attacking that turn. An example of this would be Rapid Response.
+
+## Baseplate (Game Mechanic)
+
+Were you looking for the Baseplate card?
+
+'Baseplate' is one of BLOX Cards' many game mechanics. It was introduced in Storexit. 
+
+At the start of the match, players start with two Colourless Baseplate Studs in their Baseplate. Through them, they gain 2 Colourless Studs during each of their end steps. 
+
+Every time either player discards their first 'colored' (non-Colourless) card each turn that generates icons when discarded, that card goes into their Baseplate. Cards in the Baseplate generate a Stud of their color at the end of the turn. This is important because your colored Studs will always reset to 0 at the end of each turn.
+
+There's no limit on how many cards you can put into the Baseplate. The more cards you are able to put there that aren't inert in Baseplate, the stronger the cards you're able to summon or cast, so it's a good idea to usually discard at least one card per turn. (However, if you have enough coloured Studs to cast everything, or have less than 5-4 cards in your hand, it's usually not a good idea to discard.)
+
+Not only does the Baseplate allows you to cast bigger cards, it also benefits certain cards like Papasmurf and Gangmanstyle556 being able to summon extra fighters if there are any specific fighters in the Baseplate. Even Groups like Titans benefit from this by being able to reduce their base cost of 9 colored Studs to a measly low number of 6 colored Studs, or the Infurnished, which directly gain more power and effects from having more Infurnished in the Baseplate.
+
+Although, be careful! While not detrimental, every card that a player sends to their Baseplate can be valuable information for their opponent's. As an example: While discarding a RukatuKDH on a Lifegain deck may be a good idea depending on the situation, you're also giving your opponent information that a 2000/2000 won't be played in this entire match, giving them less of a reason to "save" that hard removal when such a threat won't exist. (That's why it's a good idea to check your opponent's Baseplate once in a while.)
+
+Baseplate ranks refer to the amount of cards that are in your Baseplate (counting the 2 starter studs). Various cards have a rank, meaning that to cast that card, you need to have an X amount or higher of cards in your baseplate to be cast. An example of this are the Gladiator cards, which all require Rank 5 to be cast. The reason for why cards are given ranks can be varied. But generaly it lies upon making a card that the developers don't want people to rush it into play by extreme ramp or handdumping.
+
+[W.I.P]
